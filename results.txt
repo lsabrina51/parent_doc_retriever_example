@@ -1,0 +1,38 @@
+Loading document...
+Similarity Search: 
+Percent who had GPA below 1.0
+Percent who had GPA between 1.0 and 1.99
+Percentage of all enrolled, degree-seeking, first-time, first-year students who reported high school grade-
+point averages apportioned to each of the following ranges (using 4.0 scale).
+Percent who had GPA between 2.50 and 2.99
+Are first-time, first-year students accepted for terms other than the fall?
+Parent Document:
+Percent who had GPA below 1.0
+Percent who had GPA between 1.0 and 1.99
+Percentage of all enrolled, degree-seeking, first-time, first-year students who reported high school grade-
+point averages apportioned to each of the following ranges (using 4.0 scale).
+Percent who had GPA between 2.50 and 2.99
+Are first-time, first-year students accepted for terms other than the fall?
+Nov. 1 - Early Action Program
+Percent who had GPA between 2.0 and 2.49
+Percent who had GPA of 3.75 and 3.99
+Percent who had GPA between 3.50 and 3.74
+Percent who had GPA between 3.25 and 3.49
+By (date): 1/31/24 for early action completed files
+On a rolling basis beginning (date):  
+ 1/31/2022 CDS-C First-Years Page 7 of 20
+Enter your query (Example: How many undergrad students are at U of M?): --> The document provides various percentages for different GPA ranges among degree-seeking, first-time, first-year students on a 4.0 scale. Here are some specifics:
+
+- Percent who had GPA below 1.0: 0.2%
+- Percent who had GPA between 1.0 and 1.99: 0.8%
+- Percent who had GPA between 2.0 and 2.49: 6.4% 
+- Percent who had GPA between 2.50 and 2.99: 12-17% (exact value not provided)
+- Percent who had GPA between 3.00 and 3.24: not specified
+- Percent who had GPA between 3.25 and 3.49: not specified
+- Percent who had GPA between 3.50 and 3.74: not specified
+- Percent who had GPA between 3.75 and 3.99: not specified
+- Percent who had a GPA of 4.0: 38.0%
+- Average high school GPA of students who submitted GPA: 3.90
+
+If you need more specific ranges or information, it might not have been provided in the excerpt.
+Enter your query (Example: How many undergrad students are at U of M?): --> 

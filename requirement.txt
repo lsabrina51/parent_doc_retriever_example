@@ -1,0 +1,30 @@
+# LangChain and integrations
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-chroma
+langchain-text-splitters
+
+# Vector store
+chromadb
+
+# Azure OpenAI support
+openai>=1.0.0  # Required for AzureOpenAIEmbeddings
+azure-core
+azure-identity
+
+# Document loading
+pypdf  # Required for PyPDFLoader
+
+# Prompt handling
+tqdm  # Optional, helps with progress bars if used
+
+# Env support
+python-dotenv
+
+# Compatibility
+typing-extensions>=4.5.0  # Ensures compatibility with langchain-core
+
+# Optional: pin a Python version if needed
+# python==3.10
