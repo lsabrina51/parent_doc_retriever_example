@@ -1,0 +1,539 @@
+Q: How many undergrad students are at U of M?
+A: The University of Michigan has a total of 32,695 undergraduate students.
+Similarity Search (Child-level):
+Common Data Set 2022-2023
+A.  General Information
+A1 Address Information
+A1 Name of College/University: University of Michigan
+A1 Mailing Address: 500 S. State Street
+A1      City/State/Zip/Country: Ann Arbor, MI 48109  USA
+A1 Street Address (if different):
+A1      City/State/Zip/Country:
+A1 Main Phone Number: (734) 764-1817
+A1 WWW Home Page Address: umich.edu
+A1 Admissions Phone Number: (734) 764-7433
+A1 Admissions Toll-Free Phone Number:  n/a
+A1 Admissions Office Mailing Address: 1220 Student Activities Bldg., 515 E. Jefferson St.
+A1      City/State/Zip/Country: Ann Arbor, MI 48109-1316  USA
+A1 Admissions Fax Number: (734) 936-0740
+A1 Admissions E-mail Address:  n/a, see admissions.umich.edu/contact-us
+A1 URL for school’s online application:  apply.commonapp.org or coalitionforcollegeaccess.org
+A1 If you have a mailing address other than the 
+above to which applications should be sent, 
+please provide: 
+ n/a
+A2 Source of institutional control (Check only one):
+A2 Public X
+---
+Common Data Set 2022-2023
+H11
+May 1
+2
+Types of Aid Available to Undergraduates
+H12
+X
+X
+X
+n/a
+X
+X
+X
+H13
+X
+X
+X
+X
+X
+H14
+Non-Need Based Need-Based
+X X
+X
+X
+X
+X
+X
+X
+X
+X
+H15
+The University of Michigan is committed to meeting the full demonstrated need of resident students, and provides some aid to 
+out-of-state students. Applicants who were permanent legal residents of Michigan when undertaking active military duty, 
+missionary work, Peace Corps, or similar service are presumed to retain their eligibility.
+Leadership
+Minority status
+Music/drama
+Religious affiliation
+State/district residency
+If your institution has recently implemented any major financial aid policy,  program, or initiative to make your institution more 
+affordable to incoming students such as replacing loans with grants, or waiving costs for families below a certain income level 
+please provide details below: 
+Academics
+Alumni affiliation
+Art
+Athletics
+Job skills
+ROTC
+United Negro College Fund
+Federal Nursing Scholarship
+---
+Common Data Set 2022-2023
+G0 Please provide the URL of your institution’s net price calculator: npc.collegeboard.org/student/app/umich
+X
+G1
+G1 First-Year Undergraduates*
+PRIVATE INSTITUTIONS Tuition
+PUBLIC INSTITUTIONS Tuition(In-district)
+PUBLIC INSTITUTIONS In-state $16,404 $17,454
+PUBLIC INSTITUTIONS Out-of-state $55,002 $56,941
+US nonresident Tuition $55,002 $56,941
+G1 REQUIRED FEES (all students) $332 $332
+REQUIRED FEES (international students) $1,000 $1,000
+G1 ROOM AND BOARD (on-campus) $13,171 $13,171
+ROOM ONLY (on-campus)
+BOARD ONLY (on-campus meal plan)
+G1
+n/a
+G2 Minimum Maximum
+12 18
+Yes
+G4 Yes
+37%
+G5
+On-Campus Commuters
+(living at home) Off-Campus
+Books and supplies $1,092 $1,092 $1,092
+Room only
+Board only
+Room and board total  (if your college cannot 
+provide separate room and board figures for 
+commuters not living at home) :
+$13,171 $5,664 $13,171
+Transportation
+Other expenses $2,557 $2,557 $2,557
+G6
+PRIVATE INSTITUTIONS:
+PUBLIC INSTITUTIONS In-district
+---
+738 5% 738 5%
+14,682 100% 14,382 100%
+B. ENROLLMENT AND PERSISTENCE
+Institutional Enrollment  to  Men and Women as of the institution's official fall reporting date or as of October 15, 2022. Note: 
+Students formerly designated as “first professional” are included in the graduate counts.
+FULL-TIME PART-TIME
+Men Women Men Women
+3,060 3,964 9 17
+685 621 19 17
+10,960 11,858 717 521
+Total degree-seeking (32,448) 14,705 16,443 745 555
+Total undergraduate (32,695) 14,802 16,517 778 598
+31,319 1,376
+31,148 1,300
+97 74 33 43
+2,839 2,951 263 252
+4,774 5,279 1,147 773
+Total undergraduate and graduate (51,225) 22,517 24,828 2,222 1,658
+47,345
+102 81 34 35
+Total graduate (18,530) 7,715 8,311 1,444 1,060
+3,880
+Total all undergraduates 32,695
+Total all graduate 18,530
+GRAND TOTAL ALL STUDENTS 51,225
+16,026 2,504
+Hispanic/Latino
+Black or African American, non-Hispanic
+White, non-Hispanic
+American Indian or Alaska Native, non-Hispanic
+Asian, non-Hispanic
+---
+Parent Document(s):
+Common Data Set 2022-2023
+A.  General Information
+A1 Address Information
+A1 Name of College/University: University of Michigan
+A1 Mailing Address: 500 S. State Street
+A1      City/State/Zip/Country: Ann Arbor, MI 48109  USA
+A1 Street Address (if different):
+A1      City/State/Zip/Country:
+A1 Main Phone Number: (734) 764-1817
+A1 WWW Home Page Address: umich.edu
+A1 Admissions Phone Number: (734) 764-7433
+A1 Admissions Toll-Free Phone Number:  n/a
+A1 Admissions Office Mailing Address: 1220 Student Activities Bldg., 515 E. Jefferson St.
+A1      City/State/Zip/Country: Ann Arbor, MI 48109-1316  USA
+A1 Admissions Fax Number: (734) 936-0740
+A1 Admissions E-mail Address:  n/a, see admissions.umich.edu/contact-us
+A1 URL for school’s online application:  apply.commonapp.org or coalitionforcollegeaccess.org
+A1 If you have a mailing address other than the 
+above to which applications should be sent, 
+please provide: 
+ n/a
+A2 Source of institutional control (Check only one):
+A2 Public X
+---
+Common Data Set 2022-2023
+H11
+May 1
+2
+Types of Aid Available to Undergraduates
+H12
+X
+X
+X
+n/a
+X
+X
+X
+H13
+X
+X
+X
+X
+X
+H14
+Non-Need Based Need-Based
+X X
+X
+X
+X
+X
+X
+X
+X
+X
+H15
+The University of Michigan is committed to meeting the full demonstrated need of resident students, and provides some aid to 
+out-of-state students. Applicants who were permanent legal residents of Michigan when undertaking active military duty, 
+missionary work, Peace Corps, or similar service are presumed to retain their eligibility.
+Leadership
+Minority status
+Music/drama
+Religious affiliation
+State/district residency
+If your institution has recently implemented any major financial aid policy,  program, or initiative to make your institution more 
+affordable to incoming students such as replacing loans with grants, or waiving costs for families below a certain income level 
+please provide details below: 
+Academics
+Alumni affiliation
+Art
+Athletics
+Job skills
+ROTC
+United Negro College Fund
+Federal Nursing Scholarship
+---
+Common Data Set 2022-2023
+G0 Please provide the URL of your institution’s net price calculator: npc.collegeboard.org/student/app/umich
+X
+G1
+G1 First-Year Undergraduates*
+PRIVATE INSTITUTIONS Tuition
+PUBLIC INSTITUTIONS Tuition(In-district)
+PUBLIC INSTITUTIONS In-state $16,404 $17,454
+PUBLIC INSTITUTIONS Out-of-state $55,002 $56,941
+US nonresident Tuition $55,002 $56,941
+G1 REQUIRED FEES (all students) $332 $332
+REQUIRED FEES (international students) $1,000 $1,000
+G1 ROOM AND BOARD (on-campus) $13,171 $13,171
+ROOM ONLY (on-campus)
+BOARD ONLY (on-campus meal plan)
+G1
+n/a
+G2 Minimum Maximum
+12 18
+Yes
+G4 Yes
+37%
+G5
+On-Campus Commuters
+(living at home) Off-Campus
+Books and supplies $1,092 $1,092 $1,092
+Room only
+Board only
+Room and board total  (if your college cannot 
+provide separate room and board figures for 
+commuters not living at home) :
+$13,171 $5,664 $13,171
+Transportation
+Other expenses $2,557 $2,557 $2,557
+G6
+PRIVATE INSTITUTIONS:
+PUBLIC INSTITUTIONS In-district
+---
+738 5% 738 5%
+14,682 100% 14,382 100%
+B. ENROLLMENT AND PERSISTENCE
+Institutional Enrollment  to  Men and Women as of the institution's official fall reporting date or as of October 15, 2022. Note: 
+Students formerly designated as “first professional” are included in the graduate counts.
+FULL-TIME PART-TIME
+Men Women Men Women
+3,060 3,964 9 17
+685 621 19 17
+10,960 11,858 717 521
+Total degree-seeking (32,448) 14,705 16,443 745 555
+Total undergraduate (32,695) 14,802 16,517 778 598
+31,319 1,376
+31,148 1,300
+97 74 33 43
+2,839 2,951 263 252
+4,774 5,279 1,147 773
+Total undergraduate and graduate (51,225) 22,517 24,828 2,222 1,658
+47,345
+102 81 34 35
+Total graduate (18,530) 7,715 8,311 1,444 1,060
+3,880
+Total all undergraduates 32,695
+Total all graduate 18,530
+GRAND TOTAL ALL STUDENTS 51,225
+16,026 2,504
+Hispanic/Latino
+Black or African American, non-Hispanic
+White, non-Hispanic
+American Indian or Alaska Native, non-Hispanic
+Asian, non-Hispanic
+---
+================================================================================
+Q: tell me more about the 2015 cohort
+A: The Fall 2015 cohort consists of first-time, full-time bachelor's degree-seeking undergraduate students who entered in Fall 2015 or the preceding summer term. Here are some key details:
+
+- Initial 2015 cohort: 6,050 students
+- Final adjusted 2015 cohort (after subtractions due to death, permanent disability, military service, etc.): 6,049 students
+
+Graduation timeline for this cohort:
+- Completed the program in four years or less (by August 31, 2019): 4,893 students (80.9%)
+- Completed the program in more than four years but in five years or less (after August 31, 2019 and by August 31, 2020): 659 students (10.9%)
+- Completed the program in more than five years but in six years or less (after August 31, 2020 and by August 31, 2021): 113 students (1.9%)
+
+Total graduating within six years: 5,665 students
+The six-year graduation rate for the 2015 cohort was 93.7%.
+Similarity Search (Child-level):
+years but in five years or less (after August 
+31, 2020 and by August 31, 2021): 
+180 16.4% 92 10.2% 414 8.9% 686 10.3%
+B9 Of the 2016 cohort, count of those who 
+completed the program in more than five 
+years but in six years or less (after August 
+31, 2021 and by August 31, 2022): 
+19 1.7% 21 2.3% 67 1.4% 107 1.6%
+B10 Total graduating within six years 941 844 4,431 6,216
+B11 Six-year graduation rate for 2016 cohort 85.5% 93.7% 94.9% 93.2%
+Fall 2015 Cohort (full-time first-time 
+bachelor's degree-seeking 
+undergraduate students who entered in 
+Fall 2015 or the preceding summer term)
+Recipients of a 
+Federal Pell Grant
+Recipients of a 
+Subsidized Stafford 
+Loan who did not 
+receive a Pell Grant
+Students who did not 
+receive either a Pell 
+Grant or a subsidized 
+Stafford Loan
+Total (sum of 3 
+columns to the left)
+B4 Initial 2015 cohort of first-time, full-time 
+bachelor's (or equivalent) degree seeking 
+undergraduate-students
+891 902 4,257 6,050
+---
+B9 Of the 2015 cohort, count of those who 
+completed the program in more than five 
+years but in six years or less (after August 
+31, 2020 and by August 31, 2021): 
+13 1.5% 18 2.0% 82 1.9% 113 1.9%
+B10 Total graduating within six years 796 839 4,030 5,665
+B11 Six-year graduation rate for 2015 cohort 89.3% 93.0% 94.7% 93.7%
+Retention Rate
+B22 For the cohort of all full-time bachelor’s degree-seeking undergraduate students who entered as first-years in 
+Fall 2021 (or the preceding summer term), the percentage enrolled in Fall 2022.
+The items in this section correspond-data collected by the IPEDS Web-based Data Collection System’s Graduation Rate Survey (GRS)
+Recipients of a 
+Federal Pell Grant
+Recipients of a 
+Subsidized Stafford 
+Loan who did not 
+receive a Pell Grant
+Students who did not 
+receive either a Pell 
+Grant or a subsidized 
+Stafford Loan
+Total (sum of 3 
+columns to the left)
+1,100 901 4,674
+97%
+ 11/3/2022 CDS-B Enrollment Page 3 of 20
+---
+Stafford Loan
+Total (sum of 3 
+columns to the left)
+B4 Initial 2015 cohort of first-time, full-time 
+bachelor's (or equivalent) degree seeking 
+undergraduate-students
+891 902 4,257 6,050
+B5 Subtractions from the initial 2015 cohort due 
+to death, permanent disability, military 
+service, foreign aid service of the federal 
+government, or official church missions
+0 0 1 1
+B6 Final adjusted 2015 cohort 891 902 4,256 6,049
+B7 Of the 2015 cohort, count of those who 
+completed the program in four years or less 
+(by August 31, 2019): 
+645 72.4% 703 77.9% 3,545 83.3% 4,893 80.9%
+B8 Of the 2015 cohort, count of those who 
+completed the program in more than four 
+years but in five years or less (after August 
+31, 2019 and by August 31, 2020): 
+138 15.5% 118 13.1% 403 9.5% 659 10.9%
+B9 Of the 2015 cohort, count of those who 
+completed the program in more than five 
+years but in six years or less (after August 
+31, 2020 and by August 31, 2021): 
+13 1.5% 18 2.0% 82 1.9% 113 1.9%
+---
+Common Data Set 2022-2023
+Graduation Rates (For Bachelor's or Equivalent Institutions)
+Fall 2016 Cohort (full-time first-time 
+bachelor's degree-seeking 
+undergraduate students who entered in 
+Fall 2016 or the preceding summer term)
+B4
+Initial 2016 cohort of first-time, full-time 
+bachelor's (or equivalent) degree seeking 
+undergraduate-students
+6,675
+B5 Subtractions from the initial 2016 cohort due 
+to death, permanent disability, military 
+service, foreign aid service of the federal 
+government, or official church missions
+0 0 3 3
+B6 Final adjusted 2016 cohort 1,100 901 4,671 6,672
+B7 Of the 2016 cohort, count of those who 
+completed the program in four years or less 
+(by August 31, 2020): 
+742 67.5% 731 81.1% 3,950 84.6% 5,423 81.3%
+B8 Of the 2016 cohort, count of those who 
+completed the program in more than four 
+years but in five years or less (after August 
+31, 2020 and by August 31, 2021): 
+180 16.4% 92 10.2% 414 8.9% 686 10.3%
+B9 Of the 2016 cohort, count of those who
+---
+Parent Document(s):
+years but in five years or less (after August 
+31, 2020 and by August 31, 2021): 
+180 16.4% 92 10.2% 414 8.9% 686 10.3%
+B9 Of the 2016 cohort, count of those who 
+completed the program in more than five 
+years but in six years or less (after August 
+31, 2021 and by August 31, 2022): 
+19 1.7% 21 2.3% 67 1.4% 107 1.6%
+B10 Total graduating within six years 941 844 4,431 6,216
+B11 Six-year graduation rate for 2016 cohort 85.5% 93.7% 94.9% 93.2%
+Fall 2015 Cohort (full-time first-time 
+bachelor's degree-seeking 
+undergraduate students who entered in 
+Fall 2015 or the preceding summer term)
+Recipients of a 
+Federal Pell Grant
+Recipients of a 
+Subsidized Stafford 
+Loan who did not 
+receive a Pell Grant
+Students who did not 
+receive either a Pell 
+Grant or a subsidized 
+Stafford Loan
+Total (sum of 3 
+columns to the left)
+B4 Initial 2015 cohort of first-time, full-time 
+bachelor's (or equivalent) degree seeking 
+undergraduate-students
+891 902 4,257 6,050
+---
+B9 Of the 2015 cohort, count of those who 
+completed the program in more than five 
+years but in six years or less (after August 
+31, 2020 and by August 31, 2021): 
+13 1.5% 18 2.0% 82 1.9% 113 1.9%
+B10 Total graduating within six years 796 839 4,030 5,665
+B11 Six-year graduation rate for 2015 cohort 89.3% 93.0% 94.7% 93.7%
+Retention Rate
+B22 For the cohort of all full-time bachelor’s degree-seeking undergraduate students who entered as first-years in 
+Fall 2021 (or the preceding summer term), the percentage enrolled in Fall 2022.
+The items in this section correspond-data collected by the IPEDS Web-based Data Collection System’s Graduation Rate Survey (GRS)
+Recipients of a 
+Federal Pell Grant
+Recipients of a 
+Subsidized Stafford 
+Loan who did not 
+receive a Pell Grant
+Students who did not 
+receive either a Pell 
+Grant or a subsidized 
+Stafford Loan
+Total (sum of 3 
+columns to the left)
+1,100 901 4,674
+97%
+ 11/3/2022 CDS-B Enrollment Page 3 of 20
+---
+Stafford Loan
+Total (sum of 3 
+columns to the left)
+B4 Initial 2015 cohort of first-time, full-time 
+bachelor's (or equivalent) degree seeking 
+undergraduate-students
+891 902 4,257 6,050
+B5 Subtractions from the initial 2015 cohort due 
+to death, permanent disability, military 
+service, foreign aid service of the federal 
+government, or official church missions
+0 0 1 1
+B6 Final adjusted 2015 cohort 891 902 4,256 6,049
+B7 Of the 2015 cohort, count of those who 
+completed the program in four years or less 
+(by August 31, 2019): 
+645 72.4% 703 77.9% 3,545 83.3% 4,893 80.9%
+B8 Of the 2015 cohort, count of those who 
+completed the program in more than four 
+years but in five years or less (after August 
+31, 2019 and by August 31, 2020): 
+138 15.5% 118 13.1% 403 9.5% 659 10.9%
+B9 Of the 2015 cohort, count of those who 
+completed the program in more than five 
+years but in six years or less (after August 
+31, 2020 and by August 31, 2021): 
+13 1.5% 18 2.0% 82 1.9% 113 1.9%
+---
+Common Data Set 2022-2023
+Graduation Rates (For Bachelor's or Equivalent Institutions)
+Fall 2016 Cohort (full-time first-time 
+bachelor's degree-seeking 
+undergraduate students who entered in 
+Fall 2016 or the preceding summer term)
+B4
+Initial 2016 cohort of first-time, full-time 
+bachelor's (or equivalent) degree seeking 
+undergraduate-students
+6,675
+B5 Subtractions from the initial 2016 cohort due 
+to death, permanent disability, military 
+service, foreign aid service of the federal 
+government, or official church missions
+0 0 3 3
+B6 Final adjusted 2016 cohort 1,100 901 4,671 6,672
+B7 Of the 2016 cohort, count of those who 
+completed the program in four years or less 
+(by August 31, 2020): 
+742 67.5% 731 81.1% 3,950 84.6% 5,423 81.3%
+B8 Of the 2016 cohort, count of those who 
+completed the program in more than four 
+years but in five years or less (after August 
+31, 2020 and by August 31, 2021): 
+180 16.4% 92 10.2% 414 8.9% 686 10.3%
+B9 Of the 2016 cohort, count of those who
+---
+================================================================================
