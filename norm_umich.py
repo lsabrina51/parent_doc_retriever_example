@@ -24,9 +24,6 @@ logging.basicConfig(
 
 logging.getLogger("langchain.retrievers").setLevel(logging.INFO)
 
-#for loader
-from langchain.retrievers.multi_query import MultiQueryRetriever
-
 # Sets the current working directory to be the same as the file.
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
@@ -131,11 +128,79 @@ conversational_rag_chain = RunnableWithMessageHistory(
     output_messages_key="answer",
 )
 
-# User requests
-while True:
-    text = input('Enter your query (Example: How many undergrad students are at U of M?): --> ') # Example: How many undergrad students are at U of M?
-    #call
-    print(conversational_rag_chain.invoke(
-        {"input": text},
-        config={"configurable": {"session_id": "0"}},
-    )["answer"])
+##start of testing q's---------------------
+# Assuming you're writing to a file
+with open("umich_output_norm.txt", "w") as f:
+    session_id = 0  # unique or fixed depending on stateless or contextual behavior
+
+    # 1. First Question
+    question1 = "How many undergrad students are at U of M?"
+    f.write(f"Q: {question1}\n")
+
+    answer1 = conversational_rag_chain.invoke(
+        {"input": question1},
+        config={"configurable": {"session_id": session_id}},
+    )["answer"]
+    f.write(f"A: {answer1}\n")
+
+    # Child-level similarity search
+    sub_docs1 = vectorstore.similarity_search(question1)
+    if sub_docs1:
+        f.write("Similarity Search (Child-level):\n")
+        for doc in sub_docs1:
+            f.write(doc.page_content + "\n---\n")
+    else:
+        f.write("No relevant child documents found.\n")
+
+    # Parent-level retrieval
+    parent_docs1 = retriever.invoke(question1)
+    if parent_docs1:
+        f.write("Parent Document(s):\n")
+        for doc in parent_docs1:
+            f.write(doc.page_content + "\n---\n")
+    else:
+        f.write("No relevant parent documents found.\n")
+
+    f.write("="*80 + "\n")
+
+    # 2. Second Question
+    question2 = "tell me more about the 2015 cohort"
+    f.write(f"Q: {question2}\n")
+
+    answer2 = conversational_rag_chain.invoke(
+        {"input": question2},
+        config={"configurable": {"session_id": session_id}},
+    )["answer"]
+    f.write(f"A: {answer2}\n")
+
+    # Child-level similarity search
+    sub_docs2 = vectorstore.similarity_search(question2)
+    if sub_docs2:
+        f.write("Similarity Search (Child-level):\n")
+        for doc in sub_docs2:
+            f.write(doc.page_content + "\n---\n")
+    else:
+        f.write("No relevant child documents found.\n")
+
+    # Parent-level retrieval
+    parent_docs2 = retriever.invoke(question2)
+    if parent_docs2:
+        f.write("Parent Document(s):\n")
+        for doc in parent_docs2:
+            f.write(doc.page_content + "\n---\n")
+    else:
+        f.write("No relevant parent documents found.\n")
+
+    f.write("="*80 + "\n")
+
+
+#end of testing q's----------------------
+
+# # User requests
+# while True:
+#     text = input('Enter your query (Example: How many undergrad students are at U of M?): --> ') # Example: How many undergrad students are at U of M?
+#     #call
+#     print(conversational_rag_chain.invoke(
+#         {"input": text},
+#         config={"configurable": {"session_id": "0"}},
+#     )["answer"])

@@ -1,0 +1,583 @@
+2025-06-19 14:16:08,922 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-06-19 14:16:12,671 - HTTP Request: POST https://api.umgpt.umich.edu/azure-openai-api/openai/deployments/text-embedding-3-large/embeddings?api-version=2024-06-01 "HTTP/1.1 200 OK"
+2025-06-19 14:16:53,334 - HTTP Request: POST https://api.umgpt.umich.edu/azure-openai-api/openai/deployments/text-embedding-3-large/embeddings?api-version=2024-06-01 "HTTP/1.1 200 OK"
+2025-06-19 14:16:53,343 - Query: tell me about 2015 cohort
+2025-06-19 14:16:53,344 - Retrieved 0 documents:
+2025-06-19 14:16:58,938 - HTTP Request: POST https://api.umgpt.umich.edu/azure-openai-api/openai/deployments/gpt-4o/chat/completions?api-version=2024-06-01 "HTTP/1.1 200 OK"
+2025-06-19 14:30:10,323 - [LOAD] Loaded 20 PDF documents
+2025-06-19 14:30:10,333 - [SPLIT] Created 39 parent chunks
+2025-06-19 14:30:10,335 - [SPLIT] Created 269 child chunks from parent chunks
+2025-06-19 14:30:10,335 - [PARENT] Assigned doc_id=doc_0 to parent chunk: Common Data Set 2022-2023
+A.  General Information
+A1 Address Information
+A1 Name...
+2025-06-19 14:30:10,335 - [PARENT] Assigned doc_id=doc_1 to parent chunk: Common Data Set 2022-2023
+B1
+Undergraduates
+Degree-seeking, first-time first-yea...
+2025-06-19 14:30:10,335 - [PARENT] Assigned doc_id=doc_2 to parent chunk: Native Hawaiian or other Pacific Islander, non-Hispanic
+Enrollment by Racial/Eth...
+2025-06-19 14:30:10,335 - [PARENT] Assigned doc_id=doc_3 to parent chunk: Common Data Set 2022-2023
+Graduation Rates (For Bachelor's or Equivalent Institu...
+2025-06-19 14:30:10,335 - [PARENT] Assigned doc_id=doc_4 to parent chunk: B5 Subtractions from the initial 2015 cohort due 
+to death, permanent disability...
+2025-06-19 14:30:10,335 - [PARENT] Assigned doc_id=doc_5 to parent chunk: Common Data Set 2022-2023
+Applications
+C1
+42,004
+42,283
+2
+8,480
+6,434
+3,060
+9
+3,...
+2025-06-19 14:30:10,335 - [PARENT] Assigned doc_id=doc_6 to parent chunk: applicants includes wait-listed students offered admission.
+Recommend
+Neither re...
+2025-06-19 14:30:10,335 - [PARENT] Assigned doc_id=doc_7 to parent chunk: Common Data Set 2022-2023
+Basis for Selection
+C6
+n/a
+n/a
+n/a
+C7
+Very Important I...
+2025-06-19 14:30:10,335 - [PARENT] Assigned doc_id=doc_8 to parent chunk: degree-seeking admission decisions.
+ACT with or without writing accepted
+SAT wit...
+2025-06-19 14:30:10,335 - [PARENT] Assigned doc_id=doc_9 to parent chunk: Common Data Set 2022-2023
+SAT essay ACT essay
+For admission
+For placement
+For ad...
+2025-06-19 14:30:10,335 - [PARENT] Assigned doc_id=doc_10 to parent chunk: at: admissions.umich.edu
+SAT Composite
+400 to 800
+0 to 36
+In addition, does your...
+2025-06-19 14:30:10,335 - [PARENT] Assigned doc_id=doc_11 to parent chunk: Common Data Set 2022-2023
+18-23 2.0% 1.1% 18-23 1.2%
+12-17 0.0% 0.0% 12-17 0.0%
+...
+2025-06-19 14:30:10,335 - [PARENT] Assigned doc_id=doc_12 to parent chunk: Percent who had GPA below 1.0
+Percent who had GPA between 1.0 and 1.99
+Percentag...
+2025-06-19 14:30:10,335 - [PARENT] Assigned doc_id=doc_13 to parent chunk: Common Data Set 2022-2023
+C17 Reply policy for admitted applicants (fill in one ...
+2025-06-19 14:30:10,335 - [PARENT] Assigned doc_id=doc_14 to parent chunk: notification date but do not have to commit to attending your college? 
+Early ac...
+2025-06-19 14:30:10,335 - [PARENT] Assigned doc_id=doc_15 to parent chunk: Common Data Set 2022-2023
+Fall Applicants
+D1 Yes
+D1
+Yes
+D2
+D2 A pplicants Admitt...
+2025-06-19 14:30:10,335 - [PARENT] Assigned doc_id=doc_16 to parent chunk: X (some colleges)
+Indicate terms for which transfers may enroll:
+Unidentified
+Li...
+2025-06-19 14:30:10,335 - [PARENT] Assigned doc_id=doc_17 to parent chunk: Common Data Set 2022-2023
+D12
+C
+D1
+3 Number Unit Type
+D13 62 (if AA or AS 
+degre...
+2025-06-19 14:30:10,335 - [PARENT] Assigned doc_id=doc_18 to parent chunk: military education evaluated by the American Council on Education (ACE): 
+only a...
+2025-06-19 14:30:10,335 - [PARENT] Assigned doc_id=doc_19 to parent chunk: Common Data Set 2022-2023
+E1
+E1 Accelerated program x
+E1 Cooperative education p...
+2025-06-19 14:30:10,336 - [PARENT] Assigned doc_id=doc_20 to parent chunk: 120 credits with a cumulative GPA of 2.0. Degree programs in other undergraduate...
+2025-06-19 14:30:10,336 - [PARENT] Assigned doc_id=doc_21 to parent chunk: Common Data Set 2022-2023
+F1
+F1 First-time, first-year 
+students Undergraduates
+...
+2025-06-19 14:30:10,336 - [PARENT] Assigned doc_id=doc_22 to parent chunk: following categories:
+Housing: Check all types of college-owned, -operated, or -...
+2025-06-19 14:30:10,336 - [PARENT] Assigned doc_id=doc_23 to parent chunk: Common Data Set 2022-2023
+G0 Please provide the URL of your institution’s net pr...
+2025-06-19 14:30:10,336 - [PARENT] Assigned doc_id=doc_24 to parent chunk: annual tuition by multiplying credit hour cost by number of credits). A full aca...
+2025-06-19 14:30:10,336 - [PARENT] Assigned doc_id=doc_25 to parent chunk: Common Data Set 2022-2023
+H1 2022-2023 
+estimated
+2021-2022
+final
+X
+X
+DO NOT INC...
+2025-06-19 14:30:10,336 - [PARENT] Assigned doc_id=doc_26 to parent chunk: H. FINANCIAL AID
+Aid Awarded to Enrolled Undergraduates
+Enter total dollar amoun...
+2025-06-19 14:30:10,336 - [PARENT] Assigned doc_id=doc_27 to parent chunk: Common Data Set 2022-2023
+F Number of students in line d who were awarded any ne...
+2025-06-19 14:30:10,336 - [PARENT] Assigned doc_id=doc_28 to parent chunk: need-based athletic scholarship or grant
+127 640 11
+Q Average dollar amount of i...
+2025-06-19 14:30:10,336 - [PARENT] Assigned doc_id=doc_29 to parent chunk: Common Data Set 2022-2023
+H5
+2,288 35% $28,487
+2,224 34% $20,306
+126 2% $6,284
+0...
+2025-06-19 14:30:10,336 - [PARENT] Assigned doc_id=doc_30 to parent chunk: based aid: 
+Average dollar amount of institutional financial aid awarded to unde...
+2025-06-19 14:30:10,336 - [PARENT] Assigned doc_id=doc_31 to parent chunk: Common Data Set 2022-2023
+H11
+May 1
+2
+Types of Aid Available to Undergraduates
+H...
+2025-06-19 14:30:10,336 - [PARENT] Assigned doc_id=doc_32 to parent chunk: Common Data Set 2022-2023
+I1
+Full-time
+Exclude
+Exclude
+Exclude
+Exclude
+Include
+E...
+2025-06-19 14:30:10,336 - [PARENT] Assigned doc_id=doc_33 to parent chunk: though they do not have faculty status
+(d) undergraduate or graduate students wh...
+2025-06-19 14:30:10,336 - [PARENT] Assigned doc_id=doc_34 to parent chunk: Health in any field such as arts, sciences, education, engineering, business, an...
+2025-06-19 14:30:10,336 - [PARENT] Assigned doc_id=doc_35 to parent chunk: Common Data Set 2022-2023
+I2
+15 to   1 based on 44,285 students
+2,895 faculty
+I3...
+2025-06-19 14:30:10,336 - [PARENT] Assigned doc_id=doc_36 to parent chunk: taped tutor sessions, practicums, and all students in one-on-one classes. Each c...
+2025-06-19 14:30:10,336 - [PARENT] Assigned doc_id=doc_37 to parent chunk: Common Data Set 2022-2023
+J1 Degrees conferred between July 1, 2021 and June 30,...
+2025-06-19 14:30:10,336 - [PARENT] Assigned doc_id=doc_38 to parent chunk: Mechanic and repair technologies
+Precision production
+Transportation and materia...
+2025-06-19 14:30:10,338 - [MAPPING] Mapped doc_id to 269 child chunks
+2025-06-19 14:30:10,352 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-06-19 14:30:10,888 - HTTP Request: POST https://api.umgpt.umich.edu/azure-openai-api/openai/deployments/text-embedding-3-small/embeddings?api-version=2024-06-01 "HTTP/1.1 200 OK"
+2025-06-19 14:30:10,901 - [VECTORSTORE] Rebuilding due to: Collection expecting embedding with dimension of 3072, got 1536
+2025-06-19 14:30:11,872 - HTTP Request: POST https://api.umgpt.umich.edu/azure-openai-api/openai/deployments/text-embedding-3-small/embeddings?api-version=2024-06-01 "HTTP/1.1 200 OK"
+2025-06-19 14:32:01,304 - [LOAD] Loaded 20 PDF documents
+2025-06-19 14:32:01,314 - [SPLIT] Created 39 parent chunks
+2025-06-19 14:32:01,316 - [SPLIT] Created 269 child chunks from parent chunks
+2025-06-19 14:32:01,316 - [PARENT] Assigned doc_id=doc_0 to parent chunk: Common Data Set 2022-2023
+A.  General Information
+A1 Address Information
+A1 Name...
+2025-06-19 14:32:01,316 - [PARENT] Assigned doc_id=doc_1 to parent chunk: Common Data Set 2022-2023
+B1
+Undergraduates
+Degree-seeking, first-time first-yea...
+2025-06-19 14:32:01,316 - [PARENT] Assigned doc_id=doc_2 to parent chunk: Native Hawaiian or other Pacific Islander, non-Hispanic
+Enrollment by Racial/Eth...
+2025-06-19 14:32:01,316 - [PARENT] Assigned doc_id=doc_3 to parent chunk: Common Data Set 2022-2023
+Graduation Rates (For Bachelor's or Equivalent Institu...
+2025-06-19 14:32:01,316 - [PARENT] Assigned doc_id=doc_4 to parent chunk: B5 Subtractions from the initial 2015 cohort due 
+to death, permanent disability...
+2025-06-19 14:32:01,316 - [PARENT] Assigned doc_id=doc_5 to parent chunk: Common Data Set 2022-2023
+Applications
+C1
+42,004
+42,283
+2
+8,480
+6,434
+3,060
+9
+3,...
+2025-06-19 14:32:01,316 - [PARENT] Assigned doc_id=doc_6 to parent chunk: applicants includes wait-listed students offered admission.
+Recommend
+Neither re...
+2025-06-19 14:32:01,316 - [PARENT] Assigned doc_id=doc_7 to parent chunk: Common Data Set 2022-2023
+Basis for Selection
+C6
+n/a
+n/a
+n/a
+C7
+Very Important I...
+2025-06-19 14:32:01,316 - [PARENT] Assigned doc_id=doc_8 to parent chunk: degree-seeking admission decisions.
+ACT with or without writing accepted
+SAT wit...
+2025-06-19 14:32:01,316 - [PARENT] Assigned doc_id=doc_9 to parent chunk: Common Data Set 2022-2023
+SAT essay ACT essay
+For admission
+For placement
+For ad...
+2025-06-19 14:32:01,316 - [PARENT] Assigned doc_id=doc_10 to parent chunk: at: admissions.umich.edu
+SAT Composite
+400 to 800
+0 to 36
+In addition, does your...
+2025-06-19 14:32:01,316 - [PARENT] Assigned doc_id=doc_11 to parent chunk: Common Data Set 2022-2023
+18-23 2.0% 1.1% 18-23 1.2%
+12-17 0.0% 0.0% 12-17 0.0%
+...
+2025-06-19 14:32:01,316 - [PARENT] Assigned doc_id=doc_12 to parent chunk: Percent who had GPA below 1.0
+Percent who had GPA between 1.0 and 1.99
+Percentag...
+2025-06-19 14:32:01,316 - [PARENT] Assigned doc_id=doc_13 to parent chunk: Common Data Set 2022-2023
+C17 Reply policy for admitted applicants (fill in one ...
+2025-06-19 14:32:01,316 - [PARENT] Assigned doc_id=doc_14 to parent chunk: notification date but do not have to commit to attending your college? 
+Early ac...
+2025-06-19 14:32:01,316 - [PARENT] Assigned doc_id=doc_15 to parent chunk: Common Data Set 2022-2023
+Fall Applicants
+D1 Yes
+D1
+Yes
+D2
+D2 A pplicants Admitt...
+2025-06-19 14:32:01,316 - [PARENT] Assigned doc_id=doc_16 to parent chunk: X (some colleges)
+Indicate terms for which transfers may enroll:
+Unidentified
+Li...
+2025-06-19 14:32:01,316 - [PARENT] Assigned doc_id=doc_17 to parent chunk: Common Data Set 2022-2023
+D12
+C
+D1
+3 Number Unit Type
+D13 62 (if AA or AS 
+degre...
+2025-06-19 14:32:01,316 - [PARENT] Assigned doc_id=doc_18 to parent chunk: military education evaluated by the American Council on Education (ACE): 
+only a...
+2025-06-19 14:32:01,316 - [PARENT] Assigned doc_id=doc_19 to parent chunk: Common Data Set 2022-2023
+E1
+E1 Accelerated program x
+E1 Cooperative education p...
+2025-06-19 14:32:01,316 - [PARENT] Assigned doc_id=doc_20 to parent chunk: 120 credits with a cumulative GPA of 2.0. Degree programs in other undergraduate...
+2025-06-19 14:32:01,316 - [PARENT] Assigned doc_id=doc_21 to parent chunk: Common Data Set 2022-2023
+F1
+F1 First-time, first-year 
+students Undergraduates
+...
+2025-06-19 14:32:01,316 - [PARENT] Assigned doc_id=doc_22 to parent chunk: following categories:
+Housing: Check all types of college-owned, -operated, or -...
+2025-06-19 14:32:01,316 - [PARENT] Assigned doc_id=doc_23 to parent chunk: Common Data Set 2022-2023
+G0 Please provide the URL of your institution’s net pr...
+2025-06-19 14:32:01,316 - [PARENT] Assigned doc_id=doc_24 to parent chunk: annual tuition by multiplying credit hour cost by number of credits). A full aca...
+2025-06-19 14:32:01,316 - [PARENT] Assigned doc_id=doc_25 to parent chunk: Common Data Set 2022-2023
+H1 2022-2023 
+estimated
+2021-2022
+final
+X
+X
+DO NOT INC...
+2025-06-19 14:32:01,316 - [PARENT] Assigned doc_id=doc_26 to parent chunk: H. FINANCIAL AID
+Aid Awarded to Enrolled Undergraduates
+Enter total dollar amoun...
+2025-06-19 14:32:01,316 - [PARENT] Assigned doc_id=doc_27 to parent chunk: Common Data Set 2022-2023
+F Number of students in line d who were awarded any ne...
+2025-06-19 14:32:01,316 - [PARENT] Assigned doc_id=doc_28 to parent chunk: need-based athletic scholarship or grant
+127 640 11
+Q Average dollar amount of i...
+2025-06-19 14:32:01,316 - [PARENT] Assigned doc_id=doc_29 to parent chunk: Common Data Set 2022-2023
+H5
+2,288 35% $28,487
+2,224 34% $20,306
+126 2% $6,284
+0...
+2025-06-19 14:32:01,316 - [PARENT] Assigned doc_id=doc_30 to parent chunk: based aid: 
+Average dollar amount of institutional financial aid awarded to unde...
+2025-06-19 14:32:01,316 - [PARENT] Assigned doc_id=doc_31 to parent chunk: Common Data Set 2022-2023
+H11
+May 1
+2
+Types of Aid Available to Undergraduates
+H...
+2025-06-19 14:32:01,316 - [PARENT] Assigned doc_id=doc_32 to parent chunk: Common Data Set 2022-2023
+I1
+Full-time
+Exclude
+Exclude
+Exclude
+Exclude
+Include
+E...
+2025-06-19 14:32:01,316 - [PARENT] Assigned doc_id=doc_33 to parent chunk: though they do not have faculty status
+(d) undergraduate or graduate students wh...
+2025-06-19 14:32:01,316 - [PARENT] Assigned doc_id=doc_34 to parent chunk: Health in any field such as arts, sciences, education, engineering, business, an...
+2025-06-19 14:32:01,316 - [PARENT] Assigned doc_id=doc_35 to parent chunk: Common Data Set 2022-2023
+I2
+15 to   1 based on 44,285 students
+2,895 faculty
+I3...
+2025-06-19 14:32:01,316 - [PARENT] Assigned doc_id=doc_36 to parent chunk: taped tutor sessions, practicums, and all students in one-on-one classes. Each c...
+2025-06-19 14:32:01,316 - [PARENT] Assigned doc_id=doc_37 to parent chunk: Common Data Set 2022-2023
+J1 Degrees conferred between July 1, 2021 and June 30,...
+2025-06-19 14:32:01,316 - [PARENT] Assigned doc_id=doc_38 to parent chunk: Mechanic and repair technologies
+Precision production
+Transportation and materia...
+2025-06-19 14:32:01,319 - [MAPPING] Mapped doc_id to 269 child chunks
+2025-06-19 14:32:01,327 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-06-19 14:32:01,734 - HTTP Request: POST https://api.umgpt.umich.edu/azure-openai-api/openai/deployments/text-embedding-3-small/embeddings?api-version=2024-06-01 "HTTP/1.1 200 OK"
+2025-06-19 14:32:01,749 - [VECTORSTORE] Test query returned 0 results
+2025-06-19 14:32:01,749 - [VECTORSTORE] Rebuilding due to: Vectorstore appears empty
+2025-06-19 14:32:02,639 - HTTP Request: POST https://api.umgpt.umich.edu/azure-openai-api/openai/deployments/text-embedding-3-small/embeddings?api-version=2024-06-01 "HTTP/1.1 200 OK"
+2025-06-19 14:32:06,848 - HTTP Request: POST https://api.umgpt.umich.edu/azure-openai-api/openai/deployments/text-embedding-3-small/embeddings?api-version=2024-06-01 "HTTP/1.1 200 OK"
+2025-06-19 14:32:06,852 - Query: tell me about 2015 cohort
+2025-06-19 14:32:06,852 - Retrieved 2 documents:
+2025-06-19 14:32:06,852 - Doc 1: B5 Subtractions from the initial 2015 cohort due  to death, permanent disability, military  service, foreign aid service of the federal  government, or official church missions 0 0 1 1 B6 Final adjusted 2015 cohort 891 902 4,256 6,049 B7 Of the 2015 cohort, count of those who  completed the program  ...
+2025-06-19 14:32:06,852 - Doc 2: Common Data Set 2022-2023 Graduation Rates (For Bachelor's or Equivalent Institutions) Fall 2016 Cohort (full-time first-time  bachelor's degree-seeking  undergraduate students who entered in  Fall 2016 or the preceding summer term) B4 Initial 2016 cohort of first-time, full-time  bachelor's (or equ ...
+2025-06-19 14:32:11,346 - HTTP Request: POST https://api.umgpt.umich.edu/azure-openai-api/openai/deployments/gpt-4o/chat/completions?api-version=2024-06-01 "HTTP/1.1 200 OK"
+2025-06-19 14:45:06,712 - [LOAD] Loaded 20 PDF documents
+2025-06-19 14:45:06,722 - [SPLIT] Created 39 parent chunks
+2025-06-19 14:45:06,724 - [SPLIT] Created 269 child chunks from parent chunks
+2025-06-19 14:45:06,724 - [PARENT] Assigned doc_id=doc_0 to parent chunk: Common Data Set 2022-2023
+A.  General Information
+A1 Address Information
+A1 Name...
+2025-06-19 14:45:06,724 - [PARENT] Assigned doc_id=doc_1 to parent chunk: Common Data Set 2022-2023
+B1
+Undergraduates
+Degree-seeking, first-time first-yea...
+2025-06-19 14:45:06,724 - [PARENT] Assigned doc_id=doc_2 to parent chunk: Native Hawaiian or other Pacific Islander, non-Hispanic
+Enrollment by Racial/Eth...
+2025-06-19 14:45:06,724 - [PARENT] Assigned doc_id=doc_3 to parent chunk: Common Data Set 2022-2023
+Graduation Rates (For Bachelor's or Equivalent Institu...
+2025-06-19 14:45:06,724 - [PARENT] Assigned doc_id=doc_4 to parent chunk: B5 Subtractions from the initial 2015 cohort due 
+to death, permanent disability...
+2025-06-19 14:45:06,724 - [PARENT] Assigned doc_id=doc_5 to parent chunk: Common Data Set 2022-2023
+Applications
+C1
+42,004
+42,283
+2
+8,480
+6,434
+3,060
+9
+3,...
+2025-06-19 14:45:06,724 - [PARENT] Assigned doc_id=doc_6 to parent chunk: applicants includes wait-listed students offered admission.
+Recommend
+Neither re...
+2025-06-19 14:45:06,724 - [PARENT] Assigned doc_id=doc_7 to parent chunk: Common Data Set 2022-2023
+Basis for Selection
+C6
+n/a
+n/a
+n/a
+C7
+Very Important I...
+2025-06-19 14:45:06,724 - [PARENT] Assigned doc_id=doc_8 to parent chunk: degree-seeking admission decisions.
+ACT with or without writing accepted
+SAT wit...
+2025-06-19 14:45:06,724 - [PARENT] Assigned doc_id=doc_9 to parent chunk: Common Data Set 2022-2023
+SAT essay ACT essay
+For admission
+For placement
+For ad...
+2025-06-19 14:45:06,724 - [PARENT] Assigned doc_id=doc_10 to parent chunk: at: admissions.umich.edu
+SAT Composite
+400 to 800
+0 to 36
+In addition, does your...
+2025-06-19 14:45:06,724 - [PARENT] Assigned doc_id=doc_11 to parent chunk: Common Data Set 2022-2023
+18-23 2.0% 1.1% 18-23 1.2%
+12-17 0.0% 0.0% 12-17 0.0%
+...
+2025-06-19 14:45:06,724 - [PARENT] Assigned doc_id=doc_12 to parent chunk: Percent who had GPA below 1.0
+Percent who had GPA between 1.0 and 1.99
+Percentag...
+2025-06-19 14:45:06,724 - [PARENT] Assigned doc_id=doc_13 to parent chunk: Common Data Set 2022-2023
+C17 Reply policy for admitted applicants (fill in one ...
+2025-06-19 14:45:06,724 - [PARENT] Assigned doc_id=doc_14 to parent chunk: notification date but do not have to commit to attending your college? 
+Early ac...
+2025-06-19 14:45:06,724 - [PARENT] Assigned doc_id=doc_15 to parent chunk: Common Data Set 2022-2023
+Fall Applicants
+D1 Yes
+D1
+Yes
+D2
+D2 A pplicants Admitt...
+2025-06-19 14:45:06,724 - [PARENT] Assigned doc_id=doc_16 to parent chunk: X (some colleges)
+Indicate terms for which transfers may enroll:
+Unidentified
+Li...
+2025-06-19 14:45:06,724 - [PARENT] Assigned doc_id=doc_17 to parent chunk: Common Data Set 2022-2023
+D12
+C
+D1
+3 Number Unit Type
+D13 62 (if AA or AS 
+degre...
+2025-06-19 14:45:06,724 - [PARENT] Assigned doc_id=doc_18 to parent chunk: military education evaluated by the American Council on Education (ACE): 
+only a...
+2025-06-19 14:45:06,724 - [PARENT] Assigned doc_id=doc_19 to parent chunk: Common Data Set 2022-2023
+E1
+E1 Accelerated program x
+E1 Cooperative education p...
+2025-06-19 14:45:06,724 - [PARENT] Assigned doc_id=doc_20 to parent chunk: 120 credits with a cumulative GPA of 2.0. Degree programs in other undergraduate...
+2025-06-19 14:45:06,724 - [PARENT] Assigned doc_id=doc_21 to parent chunk: Common Data Set 2022-2023
+F1
+F1 First-time, first-year 
+students Undergraduates
+...
+2025-06-19 14:45:06,724 - [PARENT] Assigned doc_id=doc_22 to parent chunk: following categories:
+Housing: Check all types of college-owned, -operated, or -...
+2025-06-19 14:45:06,724 - [PARENT] Assigned doc_id=doc_23 to parent chunk: Common Data Set 2022-2023
+G0 Please provide the URL of your institution’s net pr...
+2025-06-19 14:45:06,724 - [PARENT] Assigned doc_id=doc_24 to parent chunk: annual tuition by multiplying credit hour cost by number of credits). A full aca...
+2025-06-19 14:45:06,724 - [PARENT] Assigned doc_id=doc_25 to parent chunk: Common Data Set 2022-2023
+H1 2022-2023 
+estimated
+2021-2022
+final
+X
+X
+DO NOT INC...
+2025-06-19 14:45:06,724 - [PARENT] Assigned doc_id=doc_26 to parent chunk: H. FINANCIAL AID
+Aid Awarded to Enrolled Undergraduates
+Enter total dollar amoun...
+2025-06-19 14:45:06,724 - [PARENT] Assigned doc_id=doc_27 to parent chunk: Common Data Set 2022-2023
+F Number of students in line d who were awarded any ne...
+2025-06-19 14:45:06,724 - [PARENT] Assigned doc_id=doc_28 to parent chunk: need-based athletic scholarship or grant
+127 640 11
+Q Average dollar amount of i...
+2025-06-19 14:45:06,724 - [PARENT] Assigned doc_id=doc_29 to parent chunk: Common Data Set 2022-2023
+H5
+2,288 35% $28,487
+2,224 34% $20,306
+126 2% $6,284
+0...
+2025-06-19 14:45:06,724 - [PARENT] Assigned doc_id=doc_30 to parent chunk: based aid: 
+Average dollar amount of institutional financial aid awarded to unde...
+2025-06-19 14:45:06,724 - [PARENT] Assigned doc_id=doc_31 to parent chunk: Common Data Set 2022-2023
+H11
+May 1
+2
+Types of Aid Available to Undergraduates
+H...
+2025-06-19 14:45:06,724 - [PARENT] Assigned doc_id=doc_32 to parent chunk: Common Data Set 2022-2023
+I1
+Full-time
+Exclude
+Exclude
+Exclude
+Exclude
+Include
+E...
+2025-06-19 14:45:06,724 - [PARENT] Assigned doc_id=doc_33 to parent chunk: though they do not have faculty status
+(d) undergraduate or graduate students wh...
+2025-06-19 14:45:06,724 - [PARENT] Assigned doc_id=doc_34 to parent chunk: Health in any field such as arts, sciences, education, engineering, business, an...
+2025-06-19 14:45:06,724 - [PARENT] Assigned doc_id=doc_35 to parent chunk: Common Data Set 2022-2023
+I2
+15 to   1 based on 44,285 students
+2,895 faculty
+I3...
+2025-06-19 14:45:06,724 - [PARENT] Assigned doc_id=doc_36 to parent chunk: taped tutor sessions, practicums, and all students in one-on-one classes. Each c...
+2025-06-19 14:45:06,724 - [PARENT] Assigned doc_id=doc_37 to parent chunk: Common Data Set 2022-2023
+J1 Degrees conferred between July 1, 2021 and June 30,...
+2025-06-19 14:45:06,724 - [PARENT] Assigned doc_id=doc_38 to parent chunk: Mechanic and repair technologies
+Precision production
+Transportation and materia...
+2025-06-19 14:45:06,727 - [MAPPING] Mapped doc_id to 269 child chunks
+2025-06-19 14:45:06,735 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-06-19 14:45:07,227 - HTTP Request: POST https://api.umgpt.umich.edu/azure-openai-api/openai/deployments/text-embedding-3-small/embeddings?api-version=2024-06-01 "HTTP/1.1 200 OK"
+2025-06-19 14:45:07,301 - [VECTORSTORE] Test query returned 1 results
+2025-06-19 14:45:10,266 - HTTP Request: POST https://api.umgpt.umich.edu/azure-openai-api/openai/deployments/text-embedding-3-small/embeddings?api-version=2024-06-01 "HTTP/1.1 200 OK"
+2025-06-19 14:45:10,271 - Query: tell me about 2015 cohort
+2025-06-19 14:45:10,271 - Retrieved 2 documents:
+2025-06-19 14:45:10,271 - Doc 1: B5 Subtractions from the initial 2015 cohort due 
+to death, permanent disability, military 
+service, foreign aid service of the federal 
+government, or official church missions
+0 0 1 1
+B6 Final adjusted 2015 cohort 891 902 4,256 6,049
+B7 Of the 2015 cohort, count of those who 
+completed the program in four years or less 
+(by August 31, 2019): 
+645 72.4% 703 77.9% 3,545 83.3% 4,893 80.9%
+B8 Of the 2015 cohort, count of those who 
+completed the program in more than four 
+years but in five years or less (after August 
+31, 2019 and by August 31, 2020): 
+138 15.5% 118 13.1% 403 9.5% 659 10.9%
+B9 Of the 2015 cohort, count of those who 
+completed the program in more than five 
+years but in six years or less (after August 
+31, 2020 and by August 31, 2021): 
+13 1.5% 18 2.0% 82 1.9% 113 1.9%
+B10 Total graduating within six years 796 839 4,030 5,665
+B11 Six-year graduation rate for 2015 cohort 89.3% 93.0% 94.7% 93.7%
+Retention Rate
+B22 For the cohort of all full-time bachelor’s degree-seeking undergraduate students who entered as first-years in 
+Fall 2021 (or the preceding summer term), the percentage enrolled in Fall 2022.
+The items in this section correspond-data collected by the IPEDS Web-based Data Collection System’s Graduation Rate Survey (GRS)
+Recipients of a 
+Federal Pell Grant
+Recipients of a 
+Subsidized Stafford 
+Loan who did not 
+receive a Pell Grant
+Students who did not 
+receive either a Pell 
+Grant or a subsidized 
+Stafford Loan
+Total (sum of 3 
+columns to the left)
+1,100 901 4,674
+97%
+ 11/3/2022 CDS-B Enrollment Page 3 of 20 ...
+2025-06-19 14:45:10,271 - Doc 2: Common Data Set 2022-2023
+Graduation Rates (For Bachelor's or Equivalent Institutions)
+Fall 2016 Cohort (full-time first-time 
+bachelor's degree-seeking 
+undergraduate students who entered in 
+Fall 2016 or the preceding summer term)
+B4
+Initial 2016 cohort of first-time, full-time 
+bachelor's (or equivalent) degree seeking 
+undergraduate-students
+6,675
+B5 Subtractions from the initial 2016 cohort due 
+to death, permanent disability, military 
+service, foreign aid service of the federal 
+government, or official church missions
+0 0 3 3
+B6 Final adjusted 2016 cohort 1,100 901 4,671 6,672
+B7 Of the 2016 cohort, count of those who 
+completed the program in four years or less 
+(by August 31, 2020): 
+742 67.5% 731 81.1% 3,950 84.6% 5,423 81.3%
+B8 Of the 2016 cohort, count of those who 
+completed the program in more than four 
+years but in five years or less (after August 
+31, 2020 and by August 31, 2021): 
+180 16.4% 92 10.2% 414 8.9% 686 10.3%
+B9 Of the 2016 cohort, count of those who 
+completed the program in more than five 
+years but in six years or less (after August 
+31, 2021 and by August 31, 2022): 
+19 1.7% 21 2.3% 67 1.4% 107 1.6%
+B10 Total graduating within six years 941 844 4,431 6,216
+B11 Six-year graduation rate for 2016 cohort 85.5% 93.7% 94.9% 93.2%
+Fall 2015 Cohort (full-time first-time 
+bachelor's degree-seeking 
+undergraduate students who entered in 
+Fall 2015 or the preceding summer term)
+Recipients of a 
+Federal Pell Grant
+Recipients of a 
+Subsidized Stafford 
+Loan who did not 
+receive a Pell Grant
+Students who did not 
+receive either a Pell 
+Grant or a subsidized 
+Stafford Loan
+Total (sum of 3 
+columns to the left)
+B4 Initial 2015 cohort of first-time, full-time 
+bachelor's (or equivalent) degree seeking 
+undergraduate-students
+891 902 4,257 6,050
+B5 Subtractions from the initial 2015 cohort due 
+to death, permanent disability, military 
+service, foreign aid service of the federal 
+government, or official church missions
+0 0 1 1 ...
+2025-06-19 14:45:16,066 - HTTP Request: POST https://api.umgpt.umich.edu/azure-openai-api/openai/deployments/gpt-4o/chat/completions?api-version=2024-06-01 "HTTP/1.1 200 OK"

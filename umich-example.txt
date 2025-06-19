@@ -1,4 +1,4 @@
-Loading document...
+Query: GPA
 Similarity Search: 
 Percent who had GPA below 1.0
 Percent who had GPA between 1.0 and 1.99
@@ -6,6 +6,7 @@ Percentage of all enrolled, degree-seeking, first-time, first-year students who 
 point averages apportioned to each of the following ranges (using 4.0 scale).
 Percent who had GPA between 2.50 and 2.99
 Are first-time, first-year students accepted for terms other than the fall?
+
 Parent Document:
 Percent who had GPA below 1.0
 Percent who had GPA between 1.0 and 1.99

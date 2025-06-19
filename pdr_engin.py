@@ -47,7 +47,7 @@ llm = AzureChatOpenAI(
 
 # Replace with the document(s) you wish to use
 print("Loading document...")
-loader = PyPDFLoader("umich-example.pdf")
+loader = PyPDFLoader("engin.pdf")
 
 docs = loader.load()
 
@@ -74,19 +74,19 @@ retriever = ParentDocumentRetriever(
 retriever.add_documents(docs, ids=None)
 list(store.yield_keys())
 
-query = "GPA"
+query = "lena image"
 
 #normal similarity search for child splitter layer 
 sub_docs = vectorstore.similarity_search(query)
 if sub_docs:
-    print("Similarity Search: ")
+    print("Similarity Search:\n")
     print(sub_docs[0].page_content)
 else:
     print("No relevant documents found.")
 
 retrieved_docs = retriever.invoke(query)
 if retrieved_docs: 
-    print("Parent Document:")
+    print("Parent Document:\n")
     print(retrieved_docs[0].page_content)
 else:
     print("No relevant documents found.")
@@ -142,13 +142,27 @@ conversational_rag_chain = RunnableWithMessageHistory(
 )
 
 # User requests
-while True:
-    text = input('Enter your query (Example: How many undergrad students are at U of M?): --> ') # Example: How many undergrad students are at U of M?
-    #call
-    print(conversational_rag_chain.invoke(
-        {"input": text},
+# while True:
+#     text = input('Enter your query (Example: How many undergrad students are at U of M?): --> ') # Example: How many undergrad students are at U of M?
+#     #call
+#     print(conversational_rag_chain.invoke(
+#         {"input": text},
+#         config={"configurable": {"session_id": "0"}},
+#     )["answer"])
+
+questions = [
+    "What is the Lena image",
+    "Tell me more about evil channel.",
+    "Modulation",
+]
+
+for question in questions:
+    print(f"Q: {question}")
+    answer = conversational_rag_chain.invoke(
+        {"input": question},
         config={"configurable": {"session_id": "0"}},
-    )["answer"])
+    )["answer"]
+    print(f"A: {answer}\n{'-'*60}\n")
 
 
 

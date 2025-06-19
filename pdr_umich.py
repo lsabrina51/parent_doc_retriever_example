@@ -65,7 +65,7 @@ vectorstore = Chroma(
 # The storage layer for the parent documents
 store = InMemoryStore()
 
-#retrieves 
+#parent retrieves 
 retriever = ParentDocumentRetriever(
     vectorstore=vectorstore,
     docstore=store,
@@ -128,51 +128,13 @@ conversational_rag_chain = RunnableWithMessageHistory(
 )
 
 # User requests
-# while True:
-#     text = input('Enter your query (Example: How many undergrad students are at U of M?): --> ') # Example: How many undergrad students are at U of M?
-#     #call
-#     print(conversational_rag_chain.invoke(
-#         {"input": text},
-#         config={"configurable": {"session_id": "0"}},
-#     )["answer"])
-
-questions = [
-    "What is the enrollment at the University of Michigan?",
-    "How many undergrad students are at U of M?", 
-    "tell me more about 2015 cohort"
-]
-session_id = "0"
-# answer = conversational_rag_chain.invoke({"input": "How many undergrad students are at U of M?"}, config={"configurable": {"session_id": session_id}})
-# f.write(f"A: {answer}\n")
-# answer = conversational_rag_chain.invoke({"input": "tell me more about the 2015 cohort"}, config={"configurable": {"session_id": session_id}})
-# f.write(f"A: {answer}\n")
-# for question in questions:
-#     f.write(f"Q: {question}\n")
-
-#     # Run RAG
-#     answer = conversational_rag_chain.invoke(
-#         {"input": question},
-#         config={"configurable": {"session_id": session_id}},
-#     )["answer"]
-
-#     # Similarity search on vectorstore
-#     sub_docs = vectorstore.similarity_search(question)
-#     if sub_docs:
-#         f.write("Similarity Search:\n")
-#         f.write(sub_docs[0].page_content + "\n\n")
-#     else:
-#         f.write("No relevant documents found in similarity search.\n\n")
-
-#     # Parent document retrieval
-#     retrieved_docs = retriever.invoke(question)
-#     if retrieved_docs:
-#         f.write("Parent Document:\n")
-#         f.write(retrieved_docs[0].page_content + "\n\n")
-#     else:
-#         f.write("No relevant parent documents found.\n\n")
-
-#     f.write(f"A: {answer}\n")
-#     f.write("-" * 60 + "\n\n")
+while True:
+    text = input('Enter your query (Example: How many undergrad students are at U of M?): --> ') # Example: How many undergrad students are at U of M?
+    #call
+    print(conversational_rag_chain.invoke(
+        {"input": text},
+        config={"configurable": {"session_id": "0"}},
+    )["answer"])
 
 session_id = 0  # unique or fixed depending on stateless or contextual behavior
 
