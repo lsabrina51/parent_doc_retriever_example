@@ -1,7 +1,14 @@
+#environment files 
 .venv/
 .env
+
+#log files 
 mExample.py
 mlog.txt
-chroma_split_store/
-chroma_store/
 pdr_log.txt
+
+#chroma sotres 
+engin_chroma_store/
+engin_pdr_chroma__store/
+umich_pdr_chroma_store/
+umich_chroma_store/
