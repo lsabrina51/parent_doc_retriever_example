@@ -2,3 +2,5 @@
 .env
 mExample.py
 mlog.txt
+chroma_split_store/
+chroma_store/
