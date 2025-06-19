@@ -15,8 +15,8 @@ import os
 
 
 # Streamlit UI
-st.set_page_config(page_title="Basic UMich Student Org Chatbot", page_icon="🎓")
-st.title("🎓 UMich Student Org Chatbot")
+st.set_page_config(page_title="Engineering Chatbot", page_icon="🎓")
+st.title("Engineering Chatbot")
 st.caption("Ask about student organizations, clubs, and related resources at the University of Michigan.")
 
 # Load environment variables
@@ -37,7 +37,7 @@ llm = AzureChatOpenAI(
 # Load documents and embed if necessary
 @st.cache_resource
 def load_vectorstore():
-    loader = PyPDFLoader("umich-example.pdf")
+    loader = PyPDFLoader("engin.pdf")
     docs = loader.load()
     text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
     splits = text_splitter.split_documents(docs)
@@ -47,13 +47,13 @@ def load_vectorstore():
         openai_api_version=os.environ['AZURE_OPENAI_API_VERSION'],  
         openai_api_key=os.environ['AZURE_OPENAI_API_KEY'],   
         openai_organization=os.environ['AZURE_OPENAI_ORGANIZATION'],
-        model="text-embedding-3-large" 
+        model="text-embedding-3-small" 
     )
 
     try:
         vectorstore = Chroma(
             embedding_function=embeddings,
-            persist_directory="chroma_store"
+            persist_directory="engin_chroma_store"
         )
         if vectorstore._collection.count() == 0:
             raise ValueError("Empty vectorstore")
@@ -61,9 +61,8 @@ def load_vectorstore():
         vectorstore = Chroma.from_documents(
             documents=splits, 
             embedding=embeddings, 
-            persist_directory="chroma_store"
+            persist_directory="engin_chroma_store"
         )
-        vectorstore.persist()
     return vectorstore
 
 vectorstore = load_vectorstore()

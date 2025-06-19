@@ -17,14 +17,14 @@ import logging
 from langchain_core.runnables import RunnableLambda
 
 # Set up logging to file (append mode)
-logging.basicConfig(filename="pdr_log.txt", 
+logging.basicConfig(filename="engin_pdr_log.txt", 
                     filemode='a', 
                     format='%(asctime)s - %(message)s', 
                     level=logging.INFO)
 
 # ---------------------- Streamlit Setup ---------------------- #
-st.set_page_config(page_title="PDR Umich Enrollment", page_icon="🎓")
-st.title("PDR Umich Enrollment")
+st.set_page_config(page_title="PDR Engineering Chatbot", page_icon="🎓")
+st.title("PDR Engineering Chatbot")
 st.caption("Ask about student organizations, clubs, and related resources at the University of Michigan.")
 
 load_dotenv()
@@ -43,7 +43,7 @@ llm = AzureChatOpenAI(
 # ---------------------- Vectorstore + Parent Retriever ---------------------- #
 @st.cache_resource
 def load_split_parent_vectorstore():
-    loader = PyPDFLoader("umich-example.pdf")
+    loader = PyPDFLoader("engin.pdf")
     docs = loader.load()
     logging.info(f"[LOAD] Loaded {len(docs)} PDF documents")
 
@@ -93,7 +93,7 @@ def load_split_parent_vectorstore():
         logging.warning(f"[MAPPING] {unmatched_children} child chunks could not be matched to a parent")
 
     # Build or load vectorstore
-    persist_directory = "chroma_split_store"
+    persist_directory = "engin_pdr_chroma__store"
     try:
         vectorstore = Chroma(
             collection_name="split_parents",

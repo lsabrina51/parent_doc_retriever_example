@@ -1,0 +1,2116 @@
+2025-06-19 16:44:18,282 - [LOAD] Loaded 278 PDF documents
+2025-06-19 16:44:18,301 - [SPLIT] Created 487 parent chunks
+2025-06-19 16:44:18,325 - [SPLIT] Created 3186 child chunks from parent chunks
+2025-06-19 16:44:18,325 - [PARENT] Assigned doc_id=doc_0 to parent chunk: Fundamentals of Electrical Engineering I
+Don H. Johnson
+Online:
+http://cnx.org/c...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_1 to parent chunk: ©2016 Don Johnson
+This selection and arrangement of content is licensed under th...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_2 to parent chunk: Table of Contents
+1 Introduction
+1.1 Themes .......................................
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_3 to parent chunk: 3.5 Power Dissipation in Resistor Circuits ........................................
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_4 to parent chunk: 4 Frequency Domain
+4.1 Introduction to the Frequency Domain .......................
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_5 to parent chunk: 4
+4.8 Derivation of the Fourier Transform .........................................
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_6 to parent chunk: 5.14 Filtering in the Frequency Domain ............................................
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_7 to parent chunk: 6.14 Binary Phase Shift Keying ....................................................
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_8 to parent chunk: 5
+6.27 Error-Correcting Codes: Hamming Distance ...................................
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_9 to parent chunk: 6...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_10 to parent chunk: Chapter 1
+Introduction
+1.1 Themes
+1
+From its beginnings in the late nineteenth c...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_11 to parent chunk: Engineers, who don’t care about informationcontent, categorize information into ...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_12 to parent chunk: 2 CHAPTER 1. INTRODUCTION
+Telegraphy represents the earliest electrical informat...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_13 to parent chunk: Thus, the primary focus shifted fromhowto build communication systems (the circu...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_14 to parent chunk: shown in Figure 1.1.
+Photographs are static, and are continuous-valued signals d...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_15 to parent chunk: 3
+-0.5
+-0.4
+-0.3
+-0.2
+-0.1
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+Amplitude
+Figure 1.1: A speech ...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_16 to parent chunk: 4 CHAPTER 1. INTRODUCTION
+00 nul 01 soh 02 stx 03 etx 04 eot 05 enq 06 ack 07 be...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_17 to parent chunk: continuous variable. Digital information includes numbers and symbols (character...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_18 to parent chunk: 5
+Source Transmitter Channel Receiver Sink 
+message modulated 
+message 
+corrupte...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_19 to parent chunk: the inverse system must exist, else the communication system cannot be considere...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_20 to parent chunk: 6 CHAPTER 1. INTRODUCTION
+In the communications model, the source is a system ha...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_21 to parent chunk: degrees, realizing that in computations we must convert from degrees to radians....
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_22 to parent chunk: 7
+–A
+A
+t
+sq(t)
+2–2
+• • • • • •
+Figure 1.5
+temperature, we would keep the frequen...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_23 to parent chunk: Problem 1.2:Modems
+The word “modem” is short for “modulator-demodulator.” Modems...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_24 to parent chunk: 8 CHAPTER 1. INTRODUCTION
+(a) What is the smallest transmission interval that ma...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_25 to parent chunk: 9
+Solutions to Exercises in Chapter 1
+Solution to Exercise 1.1 (p. 6)
+Ascos (α+ ...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_26 to parent chunk: 10 CHAPTER 1. INTRODUCTION...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_27 to parent chunk: Chapter 2
+Signals and Systems
+2.1 Complex Numbers
+1
+Whilethefundamentalsignaluse...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_28 to parent chunk: the x and y directions. Consequently, a complex numberz can be expressed as the ...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_29 to parent chunk: 12 CHAPTER 2. SIGNALS AND SYSTEMS
+Figure 2.1:A complex number is an ordered pair...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_30 to parent chunk: 13
+2.1.2 Euler’s Formula
+Surprisingly, the polar form of a complex numberz can b...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_31 to parent chunk: by multiplying both the numerator and denominator by the conjugate of the denomi...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_32 to parent chunk: 14 CHAPTER 2. SIGNALS AND SYSTEMS
+Because the ﬁnal result is so complicated, it’...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_33 to parent chunk: elemental signals have a simple structure. Exactly what we mean by the “structur...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_34 to parent chunk: 15
+2.2.1 Sinusoids
+Perhaps the most common real-valued signal is the sinusoid.
+s...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_35 to parent chunk: imaginary parts using Euler’s relation. Thus, sinusoidal signals can be expresse...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_36 to parent chunk: 16 CHAPTER 2. SIGNALS AND SYSTEMS
+Figure 2.2:Graphically, the complex exponentia...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_37 to parent chunk: 17
+Exponential
+tτ
+e–1
+1
+Figure 2.3: The real exponential.
+2.2.4 Unit Step
+The un...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_38 to parent chunk: 18 CHAPTER 2. SIGNALS AND SYSTEMS
+2.2.6 Square Wave
+The square wave (Figure 2.6)...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_39 to parent chunk: and that this decomposition isveryuseful. Thus, the complex exponential is more ...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_40 to parent chunk: 19
+systems instantiated as computer programs. Subsequent modules describe how vi...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_41 to parent chunk: discrete-time signals as stem plots to emphasize the fact they are functions deﬁ...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_42 to parent chunk: 20 CHAPTER 2. SIGNALS AND SYSTEMS
+This derivation follows because the complex ex...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_43 to parent chunk: the transmission and reception of discrete-time signals, like e-mail, is accompl...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_44 to parent chunk: 21
+Systemx(t) y(t)
+Figure 2.9: The system depicted has inputx(t) and outputy(t)....
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_45 to parent chunk: than one system are not split into pieces along the way. Two or more systems ope...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_46 to parent chunk: 22 CHAPTER 2. SIGNALS AND SYSTEMS
+2.5.3 Feedback Interconnection
+S1[•]x(t) e(t) ...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_47 to parent chunk: 2.6.2 Ampliﬁers
+An ampliﬁer (Figure 2.13) multiplies its input by a constant kno...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_48 to parent chunk: 23
+The gain can be positive or negative (if negative, we would say that the ampl...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_49 to parent chunk: than present in the input. Derivative systems operate in a straightforward way: ...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_50 to parent chunk: 24 CHAPTER 2. SIGNALS AND SYSTEMS
+integral’s limits must be deﬁned. It is a sign...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_51 to parent chunk: signals. The equation above (2.34) says that when a system is linear, its output...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_52 to parent chunk: 25
+Input-Output Relation Linear Time-Invariant
+y(t) = d
+dt (x) yes yes
+y(t) = d2...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_53 to parent chunk: 26 CHAPTER 2. SIGNALS AND SYSTEMS
+(a) Express each as a sum of complex exponenti...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_54 to parent chunk: 27
+10
+t
+1
+s(t)
+(a)
+10
+t
+1
+s(t)
+2 (b)
+10
+t
+1
+s(t)
+2
+(c)
+t1
+s(t)
+–1
+–1
+2 (d)
+t
+s(t...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_55 to parent chunk: 28 CHAPTER 2. SIGNALS AND SYSTEMS
+t1
+1
+x(t)
+2 3
+0.5
+Figure 2.19
+x(t)
+t1
+y(t)
+t1
+...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_56 to parent chunk: 29
+x1(t) 
+t
+1
+1
+2 3
+t
+1
+1
+1/2 
+x2(t) 
+Figure 2.22
+Problem 2.10:Analog Computers
+...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_57 to parent chunk: 30 CHAPTER 2. SIGNALS AND SYSTEMS
+Solutions to Exercises in Chapter 2
+Solution t...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_58 to parent chunk: Chapter 3
+Analog Signal Processing
+3.1 Voltage, Current, and Generic Circuit Ele...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_59 to parent chunk: we say that “electrons ﬂow through a conductor,” what we mean is that the conduc...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_60 to parent chunk: 32 CHAPTER 3. ANALOG SIGNAL PROCESSING
++
+–
+v
+i
+Figure 3.1: The generic circuit e...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_61 to parent chunk: Residential energy bills typically state a home’s energy usage in kilowatt-hours...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_62 to parent chunk: 33
+The resistor is far and away the simplest circuit element. In a resistor, the...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_63 to parent chunk: p(t) = Cv(t) d
+dtv(t)
+This result means that a capacitor’s total energy expendit...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_64 to parent chunk: 34 CHAPTER 3. ANALOG SIGNAL PROCESSING
+3.2.3 Inductor
+L
++
+–
+v
+i
+Figure 3.4: Indu...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_65 to parent chunk: 35
+vin
++
+–
+R1
+R2
++
+–
+vout
+(a)
+vin
++
+–
+R1
+R2
++
+–
+vout
+iout
++ – v1i1
++
+–
+v
+i (b)
+S...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_66 to parent chunk: 3.4 Electric Circuits and Interconnection Laws
+10
+A circuit connects circuit ele...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_67 to parent chunk: 36 CHAPTER 3. ANALOG SIGNAL PROCESSING
+positive current ﬂow is in the same direc...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_68 to parent chunk: of them is redundant and, in mathematical terms, we can discard any one of them....
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_69 to parent chunk: 37
+on resistor values. The KVL equation can be rewritten asvin = v1 + vout. Subs...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_70 to parent chunk: enter the positive-voltage terminal. With this convention, a positive value ofvk...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_71 to parent chunk: 38 CHAPTER 3. ANALOG SIGNAL PROCESSING
+vin
++
+–
+R1
+R2
++
+–
+vout
+(a)
+vin
++
+–
+R1
+R2
+...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_72 to parent chunk: But where do sources get their power? Again, circuit theory does not model how s...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_73 to parent chunk: 39
+The input-output relationshipfor this system, found in this particular case b...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_74 to parent chunk: equal to the sum of the resistances of the other two resistors.
+Thus, the circui...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_75 to parent chunk: 40 CHAPTER 3. ANALOG SIGNAL PROCESSING
+node consists of the entire upper interco...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_76 to parent chunk: 41
+vin
++
+–
+R1
+R2
++
+–
+vout
+RL
+source system sink
+Figure 3.12: The simple attenuat...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_77 to parent chunk: Req
+. The KVL equation written around the leftmost loop has
+vin = v1 + vout; sub...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_78 to parent chunk: 42 CHAPTER 3. ANALOG SIGNAL PROCESSING
+Example 3.1
+R1
+R2 R3
+R4
+Figure 3.13
+We wa...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_79 to parent chunk: that will work in cascade with all other circuits. Electrical engineers deal wit...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_80 to parent chunk: 43
+…
+R1
+R2
+RN
++
+–
+v2
++
+–
+v
+RT
+(a) series combination rule
+G 1 G 2 … G NG T
+i2
+i ...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_81 to parent chunk: 44 CHAPTER 3. ANALOG SIGNAL PROCESSING
+If the source were zero, it could be repl...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_82 to parent chunk: when we set the terminal voltage to zero (short-circuit it) and measure the resu...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_83 to parent chunk: 45
+vin
++
+–
+R1
+R2
++
+–
+v
+i
+Figure 3.17
+Example 3.2
+R1
+R2
+R3iin
+Figure 3.18
+For the...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_84 to parent chunk: 46 CHAPTER 3. ANALOG SIGNAL PROCESSING
+veq 
++
+–
+Req 
++
+–
+v
+i
+Sources 
+and 
+Resis...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_85 to parent chunk: ( Req
+RL + Req
+)
+ieq. For a current that does not vary with the load resistance,...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_86 to parent chunk: 47
+you buy a battery, you get a voltage source if its equivalent resistance is m...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_87 to parent chunk: suggests Norton knew of Mayer’s publication.
+3.8 Circuits with Capacitors and In...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_88 to parent chunk: we have learned to solved resistor circuits. To use impedances, we must masterco...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_89 to parent chunk: 48 CHAPTER 3. ANALOG SIGNAL PROCESSING
+vin
++
+–
+R
+C vout
++
+–
+Figure 3.21: A simpl...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_90 to parent chunk: The major consequence of assuming complex exponential voltage and currents is th...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_91 to parent chunk: 49
+same frequency, we have ∑
+n
+vn =
+∑
+n
+Vnej2πft = 0 (3.12)
+which means ∑
+n
+Vn =...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_92 to parent chunk: exponential, in the fray. The entire point of using impedances is to get rid of ...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_93 to parent chunk: 50 CHAPTER 3. ANALOG SIGNAL PROCESSING
+time-domain 
+room 
+f
+Only  signals 
+diffe...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_94 to parent chunk: 51
+vin
++
+–
+R
+C vout
++
+–
+(a)
+V in 
++
+V out 
++
+Z C
+Z R (b)
+Figure 3.24: (a) A simp...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_95 to parent chunk: 52 CHAPTER 3. ANALOG SIGNAL PROCESSING
+v(t) i(t), what is the equivalent express...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_96 to parent chunk: relationship between voltage and current maximizes the average power? In other w...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_97 to parent chunk: 53
+veq 
++
+–
+Req 
++
+–
+v
+i
+Sources 
+and 
+Resistors 
++
+–
+v
+i
++
+–
+v
+i
+Req ieq 
+Théve...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_98 to parent chunk: 54 CHAPTER 3. ANALOG SIGNAL PROCESSING
+Vin
++
+–
+R
+C
++
+–
+V
+I
+Figure 3.26
+and compl...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_99 to parent chunk: (Figure 3.28).
+This transfer function has many important properties and provides...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_100 to parent chunk: 55
+vin
++
+–
+R
+C vout
++
+–
+Figure 3.27: A simpleRC circuit.
+-1 0 1
+1
+1/ √ 2
+|H(f)|
+...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_101 to parent chunk: 56 CHAPTER 3. ANALOG SIGNAL PROCESSING
+depends only on the product of the resist...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_102 to parent chunk: of the circuit’s transfer function evaluated at the source frequency and a phase...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_103 to parent chunk: 57
+vin +
+–
+R
++
+–
+v
+i
+L
+iout
+Figure 3.29
+of linear systems, and therefore superpo...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_104 to parent chunk: function betweenVin and V, then use thev-i relation of the inductor to ﬁnd its c...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_105 to parent chunk: 58 CHAPTER 3. ANALOG SIGNAL PROCESSING
+0 0.10
+1
+2
+3
+4
+5
+Time (s)
+Voltage (v) or ...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_106 to parent chunk: The phase of the 60 Hz component will very nearly be −π/2, leaving it to be
+0.3/...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_107 to parent chunk: 59
+vin +
+–
+R1
+R2 R3
+e1 e2
+Figure 3.31
+3.15 Formal Circuit Methods: Node Method
+2...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_108 to parent chunk: an unknown node voltage, using thev-irelations for each element. In our example,...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_109 to parent chunk: 60 CHAPTER 3. ANALOG SIGNAL PROCESSING
+R1
+R2
+R3
+e1 e2
+iin
+i
+Figure 3.32
+The pres...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_110 to parent chunk: 61
+e1 e2
+i
+vin
++
+–
+1 1
+1 1
+2
+Figure 3.33
+Exercise 3.15 (Solution on p. 95.)
+What...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_111 to parent chunk: 62 CHAPTER 3. ANALOG SIGNAL PROCESSING
+0 1
+0
+1
+f
+|H(f)|
+No R2
+R1=1, R2=1
+1
+2π RC...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_112 to parent chunk: 63
+a
+b c
+1 2
+3
+i3
+i2
+i1
+Figure 3.36
+node voltage. Consequently,we conclude that ...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_113 to parent chunk: magically do so either. Such circuits are termed electrical in distinction to th...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_114 to parent chunk: 64 CHAPTER 3. ANALOG SIGNAL PROCESSING
+is the transistor, with the turning achie...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_115 to parent chunk: ampliﬁer for the diﬀerence of the input node voltages.
+Here, the output voltage ...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_116 to parent chunk: 65
+Because dependent sources cannot be described as impedances, and because the ...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_117 to parent chunk: back conﬁguration. Once we learn more about op-amps, in particular what its typi...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_118 to parent chunk: 66 CHAPTER 3. ANALOG SIGNAL PROCESSING
+3.19 Operational Ampliﬁers
+31
+–
++a
+b
+c
+–
+...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_119 to parent chunk: 67
+–
++
+vin +
+–
+RL
+RFR
+vout
++
+–
++
+–
+RL
+RFR
+–
++Rin –Gv
+Rout
+vout
++
+–
+v
++
+–
+Figure ...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_120 to parent chunk: 68 CHAPTER 3. ANALOG SIGNAL PROCESSING
+Under these conditions, we obtain the cla...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_121 to parent chunk: try to avoid inductors because they are physically bulkier than capacitors.
+• ZF...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_122 to parent chunk: 69
+vin +
+–
+RL
+RFR
+–
++Rin –Gv
+Routiin
+i
+iF
+vout
++
+–
++
+–
+v
+Figure 3.43
+combination...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_123 to parent chunk: like parts cost might enter into the picture. Unless you have a high-power appli...
+2025-06-19 16:44:18,326 - [PARENT] Assigned doc_id=doc_124 to parent chunk: 70 CHAPTER 3. ANALOG SIGNAL PROCESSING
+–
++
++
+–
+RL
+RFR
+e
+iin =0 
++
+–
+vout 
++ – v
+...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_125 to parent chunk: 71
+Let’s try this analysis technique on a simple extension of the inverting ampl...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_126 to parent chunk: obvious. When the voltage is positive, current ﬂows easily through the diode. Th...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_127 to parent chunk: 72 CHAPTER 3. ANALOG SIGNAL PROCESSING
+vin
++
+–
+R
++
+–
+vout
+Figure 3.47
+Because of...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_128 to parent chunk: for any value ofvin, and for positivevin the intersection occurs at a value forv...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_129 to parent chunk: 73
+known as ahalf-wave rectiﬁer, is present in virtually every AM radiotwiceand ...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_130 to parent chunk: 74 CHAPTER 3. ANALOG SIGNAL PROCESSING
+(b) Solve these equations fori1: In other...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_131 to parent chunk: (a short circuit) and ﬁnd the resulting current. Calculate the total currenti us...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_132 to parent chunk: 75
+R1
+R2
+R3 R4
+R5
+(a) circuit a
+R1
+R2 R3
+R4 (b) circuit b
+R1
+R2
+R3
+R4 (c) circui...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_133 to parent chunk: 76 CHAPTER 3. ANALOG SIGNAL PROCESSING
+7sin 5t
++
+–
+3 6
+1
+4
++
+–
+vout
+(a) circuit ...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_134 to parent chunk: 77
+N25 +
+–
+is
+R
+1
++
+–
+v1
+i1
+N1
+Figure 3.56
++
+R1
+iin vout 
+R2
+R3
+R4
+i
+Figure 3.57...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_135 to parent chunk: 78 CHAPTER 3. ANALOG SIGNAL PROCESSING
+Problem 3.14:Using Impedances
+Find the di...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_136 to parent chunk: 79
+(b) For the given source, ﬁnd the output voltage.
++
+–
++
+–
+vout
+1
+2 4vin
+Figur...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_137 to parent chunk: 80 CHAPTER 3. ANALOG SIGNAL PROCESSING
+by the actual resistors comprising the ci...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_138 to parent chunk: average power to the load?
+Problem 3.21:Optimal Power Transmission
+Figure 3.65 s...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_139 to parent chunk: 81
+Vg
++ Zg
+ZL
+Figure 3.65
+note: One way to maximize a function of a complex vari...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_140 to parent chunk: (c) Find the second transmitter’s frequency so that the receivers can suppress t...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_141 to parent chunk: 82 CHAPTER 3. ANALOG SIGNAL PROCESSING
++
+Resistors 
++
+v
+i
+vin 
+Figure 3.66
+(b) W...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_142 to parent chunk: output relationship. What is its general form? Examine the derivative(s) of dela...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_143 to parent chunk: 83
+i) diode ii) y(t) = x(t) sin (2πf0t)
+iii) y(t) = x(t−τ0) iv) y(t) = x(t) + N(...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_144 to parent chunk: 84 CHAPTER 3. ANALOG SIGNAL PROCESSING
+Circuit
++
+–
+v(t)
+i(t)
+Figure 3.70
+(b) If ...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_145 to parent chunk: 85
+Vin 
++
+–
+Z2
+Z1
+Vout 
++
+–
+Figure 3.72
+C
+C
+L
+L
+Figure 3.73
+(b) Picking one circ...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_146 to parent chunk: 86 CHAPTER 3. ANALOG SIGNAL PROCESSING
+1
+iin 
++ –vout 
+1
+1
+1
+1
+Figure 3.75
+R 1
+C...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_147 to parent chunk: 87
+(a) Find the diﬀerential equation relating the output voltage to the source.
+...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_148 to parent chunk: 88 CHAPTER 3. ANALOG SIGNAL PROCESSING
+(b) You attach a 1 H inductor across the ...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_149 to parent chunk: Problem 3.46:Designing a Bandpass Filter
+We want to design a bandpass ﬁlter that...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_150 to parent chunk: 89
+—
++
+R1
+R2
++
+–
+vin
++
+–
+vout
+(a) op-amp a
++
+–
+V (1)
+in
+–
++
+R 1R 2
+R 3
+R 4
+V out...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_151 to parent chunk: 90 CHAPTER 3. ANALOG SIGNAL PROCESSING
++
+Vin 
+C
+C
+R
+R
+RL
+Iout 
+Figure 3.82
+Z2
+Z1...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_152 to parent chunk: 91
+–
+++
+–
+–
++
+R1
+R2
+Vout
+Vin
+C1
+R3
+R4 C2
++
+–
+Figure 3.85
+higher frequencies beyo...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_153 to parent chunk: 92 CHAPTER 3. ANALOG SIGNAL PROCESSING
+–
++
+R2 C2Vin
++
+–
+R1
+C1
+R
+R
+–
++
+R1
+R2
+–
++
+...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_154 to parent chunk: 93
+task. If not, show why it does not work.
+–
++
+1Zin
+Vout
+Figure 3.90
+Problem 3....
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_155 to parent chunk: 94 CHAPTER 3. ANALOG SIGNAL PROCESSING
+Solutions to Exercises in Chapter 3
+Solut...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_156 to parent chunk: is the same. For a series combination, the equivalent resistance is the sum of t...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_157 to parent chunk: 95
+Solution to Exercise 3.12 (p. 52)
+For maximum power dissipation, the imaginar...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_158 to parent chunk: 96 CHAPTER 3. ANALOG SIGNAL PROCESSING...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_159 to parent chunk: Chapter 4
+Frequency Domain
+4.1 Introduction to the Frequency Domain
+1
+In develop...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_160 to parent chunk: signals: How can a superposition of pulses equal a smooth signal like a sinusoid...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_161 to parent chunk: 98 CHAPTER 4. FREQUENCY DOMAIN
+as sum of harmonically related sine waves: sinuso...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_162 to parent chunk: T dt (4.3)
+Example 4.1
+Finding the Fourier series coeﬃcients for the square wave...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_163 to parent chunk: 99
+Thus, the Fourier series for the square wave is
+sq (t) =
+∑
+k∈{...,−3,−1,1,3,....
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_164 to parent chunk: T , whereck denotes
+the spectrum ofs(t). Delaying a signal byτ seconds results i...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_165 to parent chunk: 100 CHAPTER 4. FREQUENCY DOMAIN
+Work on the ﬁrst integral
+=
+∫ T
+T−τ
+x(u−T) du+
+∫...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_166 to parent chunk: 101
+coeﬃcients depend on frequency is termed thesignal’s spectrum. When we plot ...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_167 to parent chunk: 102 CHAPTER 4. FREQUENCY DOMAIN
+Figure 4.2: The magnitude and phase of the perio...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_168 to parent chunk: some (possibly negative) multiple of2π to each phase value.
+Another aspect of th...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_169 to parent chunk: 103
+4.3 Classic Fourier Series
+7
+The classic Fourier series as derived originall...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_170 to parent chunk: • The integral of a sinusoid over aninteger number of periods equals zero.
+• The...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_171 to parent chunk: 104 CHAPTER 4. FREQUENCY DOMAIN
+the term involvingal.
+∫ T
+0
+s(t) cos
+(2πlt
+T
+)
+d...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_172 to parent chunk: 105
+Thus,
+b1 = 1
+2 b2 = b3 = ··· = 0
+On to the cosine terms. The average value, ...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_173 to parent chunk: 106 CHAPTER 4. FREQUENCY DOMAIN
+0 2 4 6 8 10
+Ps(k)
+0
+0.1
+0.2
+k
+Figure 4.4: Power...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_174 to parent chunk: What is the rms value of the half-wave rectiﬁed sinusoid?
+To ﬁnd the average pow...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_175 to parent chunk: 107
+Exercise 4.7 (Solution on p. 139.)
+In high-end audio, deviation of a sine wa...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_176 to parent chunk: quickly to the signal.
+We can look at Figure 4.7 to see the power spectrum and t...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_177 to parent chunk: 108 CHAPTER 4. FREQUENCY DOMAIN
+Fourier Series spectrum of a half-wave rectiﬁed ...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_178 to parent chunk: 109
+0 2 4 6 8 10
+0
+0.2
+0.4
+0.6
+0.8
+1
+Relative rms error
+K
+Figure 4.6:The rms err...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_179 to parent chunk: 110 CHAPTER 4. FREQUENCY DOMAIN
+0
+1 K=49
+-1
+t
+-1
+0
+1 K=1
+t
+-1
+0
+1 K=5
+t
+-1
+0
+1 K...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_180 to parent chunk: 111
+is has no eﬀect: Whatever you pick for a value has no practical relevance fo...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_181 to parent chunk: Fourier coeﬃcient be non-zero and all others zero for each letter. For example, ...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_182 to parent chunk: of Communication (Figure 1.3) to retrieve the typed letter, it would simply use ...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_183 to parent chunk: 112 CHAPTER 4. FREQUENCY DOMAIN
+0 T 2T 3T
+-2
+-1
+0
+1
+2
+t
+x(t)
+Figure 4.9:The enco...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_184 to parent chunk: having a Fourier series, a linear circuit’s output to this signal will be the su...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_185 to parent chunk: 113
+∆
+T
+∆
+t
+p(t)
+A
+……
+(a)
+0
+0
+0.2
+0 1 2
+0
+1
+0
+0
+0.2
+0 1 2
+0
+1
+0 1 2
+0
+1
+0 10 20
+...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_186 to parent chunk: Later, we will describe ﬁlters that have much more rapidly varying frequency res...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_187 to parent chunk: 114 CHAPTER 4. FREQUENCY DOMAIN
+calculations entirely in the frequency domain. U...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_188 to parent chunk: Example 4.4
+Let’s calculate the Fourier transform of the pulse signalp(t).
+P(f) ...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_189 to parent chunk: 115
+-20 -10 0 10 20
+0
+0.2
+T=5
+Frequency (Hz)
+Spectral Magnitude
+0
+0.2
+T=1
+Spectr...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_190 to parent chunk: 116 CHAPTER 4. FREQUENCY DOMAIN
+Properties of the Fourier transform and some use...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_191 to parent chunk: systems work and are designed, we will deﬁne signals entirely in the frequency d...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_192 to parent chunk: 117
+Table 4.1
+Time Domain Frequency Domain
+Linearity a1s1 (t) + a2s2 (t) a1S1 (f...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_193 to parent chunk: 118 CHAPTER 4. FREQUENCY DOMAIN
+Using Euler’s relation for the cosine,
+s(t) cos ...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_194 to parent chunk: signal isnot its highest frequency, but the range of positive frequencies where ...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_195 to parent chunk: 119
+4.9 Linear Time Invariant Systems
+15
+When we apply a periodic input to a lin...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_196 to parent chunk: domain.
+• The term1 −e−j2πf∆ means, in the time domain, subtract the time-delaye...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_197 to parent chunk: 120 CHAPTER 4. FREQUENCY DOMAIN
+The middle term in the expression forY (f) consi...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_198 to parent chunk: which term is the input and which is the transfer function is merely a notationa...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_199 to parent chunk: systems as well; see this Frequency Domain Problem (Problem 4.13). Engineers exp...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_200 to parent chunk: 121
+Nasal Cavity
+Lungs
+Vocal Cords
+Tongue
+Teeth
+Lips
+Oral Cavity
+Air Flow
+Figure...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_201 to parent chunk: 122 CHAPTER 4. FREQUENCY DOMAIN
+Vocal
+Tract
+pT(t) s(t)Vocal
+CordsLungs
+l(t)
+neur...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_202 to parent chunk: together, blowing through the opening causes the sides of the rubber band to vib...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_203 to parent chunk: “n” and “m” have this property. For others, the vocal cords do not produce a per...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_204 to parent chunk: 123
+  0 5000
+-20
+-10
+0
+10
+20
+30
+F1
+Spectral Magnitude (dB)
+Frequency (Hz)
+F2 F3 ...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_205 to parent chunk: tract “tube” varies along its length because of the positions of the tongue, tee...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_206 to parent chunk: 124 CHAPTER 4. FREQUENCY DOMAIN
+rejecting high or low frequencies, the vocal tra...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_207 to parent chunk: model transfer function for the vocal tract makes the formants much more readily...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_208 to parent chunk: systems act like abandpass ﬁlterpassing energy between about 200 Hz and 3.2 kHz....
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_209 to parent chunk: 125
+(a) pulse
+0 1000 2000 3000 4000 5000 
+-20 
+-10 
+0
+10 
+20 
+30 
+40 
+50 
+Spectr...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_210 to parent chunk: manipulate signals in more ways than are possible with analog systems. Such ﬂexi...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_211 to parent chunk: 126 CHAPTER 4. FREQUENCY DOMAIN
+Time (s)
+Frequency (Hz)
+0 0.2 0.4 0.6 0.8 1 1.2
+...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_212 to parent chunk: 127
+t
+s(t) 
+1
+1
+8
+1
+4
+13
+8
+Figure 4.18
+t
+s(t) 
+1 2 3
+1
+(a)
+t
+s(t) 
+1 2 3
+1
+(b)
+t...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_213 to parent chunk: 128 CHAPTER 4. FREQUENCY DOMAIN
+(a) Find this ﬁlter’s transfer function.
+(b) Fin...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_214 to parent chunk: resulting from your choice.
+(c) Find the Fourier series for the signal depicted ...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_215 to parent chunk: 129
+0 50 100 150 200 250 300 350
+50
+55
+60
+65
+70
+75
+80
+85
+90
+95
+Day
+Average High ...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_216 to parent chunk: 130 CHAPTER 4. FREQUENCY DOMAIN
+the integral needed to calculate Fourier series ...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_217 to parent chunk: (a) Calculate the Fourier transform of the signal shown below (Figure 4.23(a)).
+...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_218 to parent chunk: 131
+(b) Calculate the Fourier transform of the two-pulse sequence shown below (F...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_219 to parent chunk: 132 CHAPTER 4. FREQUENCY DOMAIN
+τ
+Sound 
+wave 
+s(t) s(t- τ )
+Figure 4.26
+a relat...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_220 to parent chunk: these maximum-power processing delays related toτ?
+Problem 4.13:Arrangements of ...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_221 to parent chunk: 133
+x(t) y(t)
+H1(f) H2(f)
+(a) system a
+H1(f)
+H2(f)
+x(t)
+x(t)
+x(t)
+y(t)
+(b) syste...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_222 to parent chunk: 134 CHAPTER 4. FREQUENCY DOMAIN
+the system linear and time-invariant? If so, ﬁnd...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_223 to parent chunk: in the blood stream. Typically, if the drug concentration in the patient’s intra...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_224 to parent chunk: toward the transmitter could be determined?
+(c) Suppose two objects traveling di...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_225 to parent chunk: 135
+1/4 
+S(f) 
+f
+1
+/4 
+(a)
+t
+1
+1 3 (b)
+Figure 4.29
+Radio stations try to restric...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_226 to parent chunk: (πt
+2
+)
+, another wants to try modulating withcos (πt) and the third thinkscos
+(...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_227 to parent chunk: 136 CHAPTER 4. FREQUENCY DOMAIN
+r(t) 
+cos 2π fct
+sin 2π fct
+LPF 
+W Hz 
+LPF 
+W Hz...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_228 to parent chunk: 137
+(b) Show the block diagram of a stereo AM receiver that can yield the left a...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_229 to parent chunk: 138 CHAPTER 4. FREQUENCY DOMAIN
+(a) Assuming the message signal is lowpass and h...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_230 to parent chunk: (c) ELEC 241 students think they have “broken” the inventor’s scheme and are goi...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_231 to parent chunk: 139
+Solutions to Exercises in Chapter 4
+Solution to Exercise 4.1 (p. 98)
+Because...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_232 to parent chunk: √
+2. As a half-wave rectiﬁed sine wave is zero
+during half of the period, its rm...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_233 to parent chunk: 140 CHAPTER 4. FREQUENCY DOMAIN
+Solution to Exercise 4.7 (p. 107)
+Total harmonic...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_234 to parent chunk: Solution to Exercise 4.14 (p. 118)
+The signal is the inverse Fourier transform o...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_235 to parent chunk: 141
+Solution to Exercise 4.18 (p. 124)
+In the bottom-left panel, the period is a...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_236 to parent chunk: 142 CHAPTER 4. FREQUENCY DOMAIN...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_237 to parent chunk: Chapter 5
+Digital Signal Processing
+5.1 Introduction to Digital Signal Processin...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_238 to parent chunk: means that we can perform signal processing operations impossible with analog sy...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_239 to parent chunk: 144 CHAPTER 5. DIGITAL SIGNAL PROCESSING
+CPU
+Memory
+I/O
+Interface
+Keyboard Disks...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_240 to parent chunk: a computer deal with numbers that have digits to the right of the decimal point?...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_241 to parent chunk: 145
+(base-16). Fractions between zero and one are represented the same way.
+f =
+...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_242 to parent chunk: 32-bit number can represent integers ranging between 0 and232 −1 (4,294,967,295)...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_243 to parent chunk: 146 CHAPTER 5. DIGITAL SIGNAL PROCESSING
+the only ﬂoating point number having a ...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_244 to parent chunk: Exercise 5.2 (Solution on p. 191.)
+What are the largest and smallest numbers tha...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_245 to parent chunk: 8See if you can ﬁnd this representation.
+9Note that there willalways be numbers ...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_246 to parent chunk: 147
+Boole11 discovered this equivalence in the mid-nineteenth century. It laid t...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_247 to parent chunk: Shannon, also at Bell Laboratories, revived the result once computers were made ...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_248 to parent chunk: 148 CHAPTER 5. DIGITAL SIGNAL PROCESSING
+s(t)
+s(t)pTs(t)
+Ts∆
+t
+t
+Figure 5.3:The ...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_249 to parent chunk: the Sampling Theorem. High-quality sampling systems ensure that no aliasing occu...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_250 to parent chunk: 149
+W–W
+S(f)
+f
+W–W
+X(f)
+f
+c0 c1 c2
+c-1c-2
+1
+Ts
+W–W
+X(f)
+f
+c0 c1c-1c-2
+Ts> 1
+2W
+T...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_251 to parent chunk: structure intact.
+Exercise 5.6 (Solution on p. 191.)
+What is the simplest bandli...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_252 to parent chunk: 150 CHAPTER 5. DIGITAL SIGNAL PROCESSING
+5.4 Amplitude Quantization
+14
+The Sampl...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_253 to parent chunk: aﬀecting the information it expresses, we’ll deﬁne this range to be[−1,1]. Furth...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_254 to parent chunk: 151
+converter, the device that converts integers to amplitudes, assigns an ampli...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_255 to parent chunk: Thus, every bit increase in the A/D converter yields a 6 dB increase in the sign...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_256 to parent chunk: 152 CHAPTER 5. DIGITAL SIGNAL PROCESSING
+OncewehaveacquiredsignalswithanA/Dconve...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_257 to parent chunk: the integers. We can delay a discrete-time signal by an integer just as with ana...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_258 to parent chunk: 153
+5.5.3 Sinusoids
+Discrete-time sinusoids have the obvious forms(n) = Acos (2π...
+2025-06-19 16:44:18,327 - [PARENT] Assigned doc_id=doc_259 to parent chunk: formally, each element of thesymbolic-valued signal s(n) takes on one of the val...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_260 to parent chunk: 154 CHAPTER 5. DIGITAL SIGNAL PROCESSING
+5.5.7 Discrete-Time Systems
+Discrete-ti...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_261 to parent chunk: corresponds to the discrete-time frequency1
+2 . To show this, note that a sinuso...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_262 to parent chunk: 155
+Example 5.1
+Let’s compute the discrete-time Fourier transform of the exponen...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_263 to parent chunk: 156 CHAPTER 5. DIGITAL SIGNAL PROCESSING
+-2 -1 0 1 2
+1
+2
+f
+|S(ej2π f)|
+-2 -1 1 2...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_264 to parent chunk: 157
+The ratio of sine functions has the generic form ofsin (Nx)
+sin (x) , which ...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_265 to parent chunk: 158 CHAPTER 5. DIGITAL SIGNAL PROCESSING
+The properties of the discrete-time Fou...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_266 to parent chunk: with period 1. For example, the spectrum ofx(n) = s(n/2), n even, x(n) = 0, n od...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_267 to parent chunk: 159
+Index Domain Frequency Domain
+Linearity a1s1(n) + a2s2(n) a1S1
+(
+ej2πf)
++ a2...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_268 to parent chunk: 160 CHAPTER 5. DIGITAL SIGNAL PROCESSING
+We thus deﬁne thediscrete Fourier trans...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_269 to parent chunk: equals s(n) + s(n+ K) for some values ofn. The only way to eliminate this proble...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_270 to parent chunk: 161
+we haveK equations inN unknowns if we want to ﬁnd the signal from its sample...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_271 to parent chunk: that never arises in analog “computation,” like that performed by a circuit, is ...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_272 to parent chunk: 162 CHAPTER 5. DIGITAL SIGNAL PROCESSING
+Exercise 5.17 (Solution on p. 192.)
+In ...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_273 to parent chunk: speeded, but also the added feature ofalgorithm meant that computations had ﬂexi...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_274 to parent chunk: 163
+s0
+s2
+s4
+s6
+s1
+s3
+s5
+s7
+S0
+S1
+S2
+S3
+S4
+S5
+S6
+S7
+e–j0
+e–j2 π /8
+e–j2 π 2/8
+e–...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_275 to parent chunk: and 4 multiplications, giving a total number of computations equaling10 ·N
+4 = 5...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_276 to parent chunk: 164 CHAPTER 5. DIGITAL SIGNAL PROCESSING
+e–j2 π k/N
+e–j2 π( k+N/2)/N
+a
+b
+a+be–j2...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_277 to parent chunk: that power-of-two transform lengths are frequently used regardless of what the a...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_278 to parent chunk: 165
+Time (s)
+Frequency (Hz)
+0 0.2 0.4 0.6 0.8 1 1.2
+0
+1000
+2000
+3000
+4000
+5000
+R...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_279 to parent chunk: we ﬁnd that the oscillations resulting from applying the rectangular window obsc...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_280 to parent chunk: 166 CHAPTER 5. DIGITAL SIGNAL PROCESSING
+256
+FFT (512)
+Rectangular
+Window
+f
+Hann...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_281 to parent chunk: 167
+Log Spectral Magnitude
+f
+n
+FFT FFT FFT FFT FFT FFT FFT
+Figure 5.17: The orig...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_282 to parent chunk: signal’s Fourier transform by a frequency response, is not only a viable alterna...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_283 to parent chunk: 168 CHAPTER 5. DIGITAL SIGNAL PROCESSING
+5.12 Discrete-Time Systems in the Time-...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_284 to parent chunk: of coeﬃcients p and q and the coeﬃcients’ values{a1,...,a p}and {b0,b1,...,b q}....
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_285 to parent chunk: 169
+a sum of signals can be the sum of the individual outputs occurs when the in...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_286 to parent chunk: lasts forever; such systems are said to beIIR (Inﬁnite Impulse Response). The re...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_287 to parent chunk: 170 CHAPTER 5. DIGITAL SIGNAL PROCESSING
+1
+n
+y(n)
+a = 0.5, b = 1
+n
+-1
+1
+y(n)
+a =...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_288 to parent chunk: 171
+Response) because their unit sample responses have ﬁnite duration. Plotting ...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_289 to parent chunk: Y = b0 + b1e−j2πf + ··· + bqe−j2πqf
+1 −a1e−j2πf −···− ape−j2πpf X
+This relations...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_290 to parent chunk: 172 CHAPTER 5. DIGITAL SIGNAL PROCESSING
+is positive, we have a lowpass ﬁlter; n...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_291 to parent chunk: detail how analog signals can be ﬁltered by computers, oﬀering a much greater ra...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_292 to parent chunk: 173
+Computing the inverse DFT yields a length-N signal no matter what the actual...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_293 to parent chunk: FIR ﬁlters.
+Another issue arises in frequency-domain ﬁltering that is related to...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_294 to parent chunk: Figure 5.20, is accomplished by storing the ﬁlter’s frequency response as the DF...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_295 to parent chunk: 174 CHAPTER 5. DIGITAL SIGNAL PROCESSING
+DFT
+x(n)
+H(k)
+IDFT
+X(k) Y(k) y(n)
+Figur...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_296 to parent chunk: uncountably inﬁnite. Guess which is “bigger?”
+The DFT computes the Fourier trans...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_297 to parent chunk: 175
+Trading Day (1997)
+Dow-Jones Industrial Average
+0 50 100 150 200 250
+0
+1000
+...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_298 to parent chunk: 176 CHAPTER 5. DIGITAL SIGNAL PROCESSING
+The colored plane plots(Nx + q) (2q+ 1)...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_299 to parent chunk: results in fewer computations is shown in the ﬁgure. As the analysis and the plo...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_300 to parent chunk: 177
+n
+n
+Filter Filter
+Sectioned Input
+Filtered, Overlapped Sections
+Output (Sum ...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_301 to parent chunk: Exercise 5.32 (Solution on p. 193.)
+Show that as the section length increases, t...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_302 to parent chunk: 178 CHAPTER 5. DIGITAL SIGNAL PROCESSING
+0
+0.1
+h(n)
+Index
+n
+Spectral Magnitude
+0...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_303 to parent chunk: in the noisy signal.
+A smart Rice engineer has selected a FIR ﬁlter having a uni...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_304 to parent chunk: 179
+5.16 Discrete-Time Filtering of Analog Signals
+30
+Because of the Sampling Th...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_305 to parent chunk: a diﬀerence equation (5.42) isO(p+ q). Frequency domain implementation of the ﬁl...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_306 to parent chunk: 180 CHAPTER 5. DIGITAL SIGNAL PROCESSING
+5.17 Digital Signal Processing Problems...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_307 to parent chunk: 181
+Ts
+4
+Ts
+t
+p(t) 
+A
+……
+∆
+5T s
+4
+∆ ∆∆
+Figure 5.26
+(a) Find the Fourier spectrum...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_308 to parent chunk: 182 CHAPTER 5. DIGITAL SIGNAL PROCESSING
+(d) We can describe the quantization er...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_309 to parent chunk: 183
+• The voltage at timet= 4T should diminish by a factor of two the further th...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_310 to parent chunk: (c) How does the 32-point DFT ofx(n) depend onθ?
+Problem 5.11:Discrete-Time Filt...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_311 to parent chunk: 184 CHAPTER 5. DIGITAL SIGNAL PROCESSING
+(c) In particular, assume our ﬁlter is ...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_312 to parent chunk: 185
+and we approximate the derivative by
+d
+dty(t)
+⏐⏐⏐⏐
+t=nT
+≈y(nT) −y((n−1) T)
+T...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_313 to parent chunk: 186 CHAPTER 5. DIGITAL SIGNAL PROCESSING
+Problem 5.17:DSP Tricks
+Sammyisfacedwit...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_314 to parent chunk: (c) What is this ﬁlter’s output when the input issin
+(πn
+4
+)
+?
+Problem 5.20:Anot...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_315 to parent chunk: 187
+Problem 5.21:Yet Another Digital Filter
+A ﬁlter has an input-output relation...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_316 to parent chunk: 188 CHAPTER 5. DIGITAL SIGNAL PROCESSING
+(a) Plot the magnitude and phase of thi...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_317 to parent chunk: the absolute value of a cosine:|H
+(
+ej2πf)
+|∝| cos (πfN) |. In this way, not onl...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_318 to parent chunk: 189
+(a) What answer should Samantha obtain?
+(b) As a check, her group partner Sa...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_319 to parent chunk: 2 , n1 = 10, a2 = 1
+5 , and n2 = 25. Half the class votes to just program the di...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_320 to parent chunk: 190 CHAPTER 5. DIGITAL SIGNAL PROCESSING
+processing. First of all, he would sect...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_321 to parent chunk: 191
+Solutions to Exercises in Chapter 5
+Solution to Exercise 5.1 (p. 145)
+For b-...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_322 to parent chunk: Solution to Exercise 5.8 (p. 151)
+The signal-to-noise ratio does not depend on t...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_323 to parent chunk: 192 CHAPTER 5. DIGITAL SIGNAL PROCESSING
+Solution to Exercise 5.10 (p. 151)
+A 16...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_324 to parent chunk: compute. Using the FFT, a 1ms computing time would increase by a factor of about...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_325 to parent chunk: 193
+Solution to Exercise 5.21 (p. 164)
+Number of samples equals1.2 ×11025 = 1323...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_326 to parent chunk: y(n) =
+q∑
+m=0
+bmx(n−m) (5.58)
+The unit-sample response equals
+h(n) =
+q∑
+m=0
+bmδ(...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_327 to parent chunk: 194 CHAPTER 5. DIGITAL SIGNAL PROCESSING
+Solution to Exercise 5.33 (p. 178)
+Thed...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_328 to parent chunk: Chapter 6
+Information Communication
+6.1 Information Communication
+1
+As far as a ...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_329 to parent chunk: cate digital information with no error despite the fact that the communication c...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_330 to parent chunk: 196 CHAPTER 6. INFORMATION COMMUNICATION
+6.2 Types of Communication Channels
+2
+E...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_331 to parent chunk: ∇×E = −∂
+∂t (µH) div ( ϵE) = ρ
+∇×H = σE + ∂
+∂t (ϵE) div ( µH) = 0
+(6.1)
+where E ...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_332 to parent chunk: few hundred Hertz over any appreciable distance.
+Consequently, mostwirelinechann...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_333 to parent chunk: 197
+central 
+conductor 
+dielectric 
+outer 
+conductor 
+insulation 
+ri
+rd
+σ
+σ d,ε ...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_334 to parent chunk: transmission line geometry, and the parallel conductance from the medium between...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_335 to parent chunk: 198 CHAPTER 6. INFORMATION COMMUNICATION
+˜R= 1
+πrδσ
+˜C = πϵ
+cosh−1 (d
+2r
+)
+˜G= π...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_336 to parent chunk: solution.
+d2
+dx2 V (x) = γ2 (
+V+e−γx + V−e+γx)
+= γ2V (x)
+(6.9)
+Our solution work...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_337 to parent chunk: 199
+distance along the transmission line. Expressingγ in terms of its real and i...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_338 to parent chunk: voltage appeared to move to the right with a speed equal to2πf/b (assuming b >0)...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_339 to parent chunk: 200 CHAPTER 6. INFORMATION COMMUNICATION
+Expanding the expressions, we ﬁnd that
+...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_340 to parent chunk: according to the ﬁber’s space constant and propagates at some speed less than li...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_341 to parent chunk: 201
+components at various frequencies propagate at the same speed. Transmitted s...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_342 to parent chunk: without loss in all directions. Considering a sphere centered at the transmitter...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_343 to parent chunk: 202 CHAPTER 6. INFORMATION COMMUNICATION
+Known familiarly as the speed of light,...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_344 to parent chunk: the case where the antennas have diﬀerent heights (as is the case with commercia...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_345 to parent chunk: 203
+centers. Consequently, networks of antennas sprinkle the countryside (each l...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_346 to parent chunk: required. The communication delay encountered with a single reﬂection in this ch...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_347 to parent chunk: 204 CHAPTER 6. INFORMATION COMMUNICATION
+6.8 Noise and Interference
+9
+We have me...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_348 to parent chunk: • At each frequency, the phase of the noise spectrum is totally uncertain: It ca...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_349 to parent chunk: 205
+6.9 Channel Models
+11
+Both wireline and wireless channels share characterist...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_350 to parent chunk: spectra.
+SIR =
+2α2
+∫ ∞
+0
+Px(f) df
+2
+∫ fu
+fl
+Pi(f) df
+(6.25)
+SNR =
+2α2
+∫ ∞
+0
+Px(f...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_351 to parent chunk: 206 CHAPTER 6. INFORMATION COMMUNICATION
+6.10 Baseband Communication
+12
+We use a...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_352 to parent chunk: α2G2power (m) and the noise powerN0W, which gives a signal-to-noise ratio of
+SNR...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_353 to parent chunk: 207
+M(f) ^
+fWW
+R(f) 
+f
+fc+Wfc W fc
+R(f) 
+~
+f
+fc+Wfc W fc
+BPF 
+fc; 2W
+r(t) r(t) ~...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_354 to parent chunk: cos2 (2πfct) = 1
+2
+(
+1 + cos (2π2fct)
+)
+(6.31)
+At this point, the message signal...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_355 to parent chunk: 208 CHAPTER 6. INFORMATION COMMUNICATION
+6.12 Signal-to-Noise Ratio of an Amplit...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_356 to parent chunk: ratio — the signal-to-noise ratio after thede rigeur front-end bandpass ﬁlter an...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_357 to parent chunk: 209
+• More transmitter power — increasingAc — increases the signal-to-noise rati...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_358 to parent chunk: use AM and chooses the same carrier frequency. The two resulting transmissions w...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_359 to parent chunk: we transmit the signals0 (t); ifb(n) = 1, sends1 (t). These two signals comprise...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_360 to parent chunk: 210 CHAPTER 6. INFORMATION COMMUNICATION
+A
+T t
+s0(t)
+–A
+t
+s1(t)
+T
+Figure 6.7
+A
+T...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_361 to parent chunk: 211
+The datarate R of a digital communication system is how frequently an inform...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_362 to parent chunk: has zero bandwidth. The worst-case—bandwidth consuming—bit sequence is the alter...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_363 to parent chunk: 212 CHAPTER 6. INFORMATION COMMUNICATION
+From our work in Fourier series, we kno...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_364 to parent chunk: Think of it as two signals added together: The ﬁrst comprised of the signals0 (t...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_365 to parent chunk: 213
+T
+A
+t
+“0” “1” “1” “0”
+x(t)
+2T 3T 4T
+A
+t
+“0” “0”
+T
+A
+t
+“1” “1”
+2T 3T 4T
++=
+Fi...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_366 to parent chunk: sequence, known as thepreamble. This reference bit sequence is usually the alter...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_367 to parent chunk: 214 CHAPTER 6. INFORMATION COMMUNICATION
+The receiver for digital communication ...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_368 to parent chunk: What is the corresponding result when the amplitude-modulated BPSK signal set is...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_369 to parent chunk: 215
+6.17 Digital Communication in the Presence of Noise
+21
+When we incorporate a...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_370 to parent chunk: • Probability Distribution of the Noise Term— The value of the noise terms relat...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_371 to parent chunk: 216 CHAPTER 6. INFORMATION COMMUNICATION
+0 1 2 3 4 5 6
+10
+10
+10
+10-2
+10 0
+-4
+-6
+...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_372 to parent chunk: 217
+6.18 Digital Communication System Properties
+24
+Results from Section 6.17 re...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_373 to parent chunk: optimal: No other receiver can provide a smaller probability of error than the m...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_374 to parent chunk: (Figure 1.3). As depicted in Figure 6.17, the message is a single bit. The analo...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_375 to parent chunk: 218 CHAPTER 6. INFORMATION COMMUNICATION
+0
+1
+pe
+1–p e 0
+1
+b(n)
+SinkSource
+Decode...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_376 to parent chunk: 0 ≤Pr [ak] ≤1 (6.48)
+K∑
+k=1
+Pr [ak] = 1 (6.49)
+This coin-ﬂipping model assumes t...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_377 to parent chunk: 219
+Exercise 6.21 (Solution on p. 256.)
+Derive the maximum-entropy results, both...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_378 to parent chunk: we want to use as few bits as possible. However, we don’t want to use so few bit...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_379 to parent chunk: 220 CHAPTER 6. INFORMATION COMMUNICATION
+Example 6.2
+A four-symbol alphabet has ...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_380 to parent chunk: bits as possible. Compression schemes that assign symbols to bit sequences are k...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_381 to parent chunk: 221
+• Form a binary tree to the right of the table. A binary tree always has two...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_382 to parent chunk: could well result. Furthermore, we may not be able to achieve the entropy limit....
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_383 to parent chunk: 222 CHAPTER 6. INFORMATION COMMUNICATION
+6.23 Subtleties of Coding
+31
+In the Huﬀ...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_384 to parent chunk: Sketch an argument that preﬁx coding, whether derived from a Huﬀman code or not,...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_385 to parent chunk: was not a preﬁx code. To separate codes for each letter, Morse code required tha...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_386 to parent chunk: 223
+% Morse Code Huﬀman Code
+A 6.22 .- 1011
+B 1.32 -... 010100
+C 3.11 -.-. 10101...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_387 to parent chunk: correction codes exist that can correctall the bit errors introduced by the chan...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_388 to parent chunk: 224 CHAPTER 6. INFORMATION COMMUNICATION
+b(n) 
+Sink Source 
+Decoder 
+s(m) b(n) 
+...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_389 to parent chunk: 2 , we
+know that more of the bits should be correct rather than in error. Simple...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_390 to parent chunk: 225
+Received Codeword Probability Decoded Bit
+000 (1 −pe)3 0
+001 pe(1 −pe)2 0
+01...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_391 to parent chunk: coding cannot ultimately reduce the probability that a data bit is received in e...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_392 to parent chunk: 226 CHAPTER 6. INFORMATION COMMUNICATION
+transmitted again changes: So-called da...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_393 to parent chunk: won’t generalize easily. We need a broader view that takes into account thedista...
+2025-06-19 16:44:18,328 - [PARENT] Assigned doc_id=doc_394 to parent chunk: 227
+0
+1
+1 1 0
+1
+1 1
+0
+1
+1 1
+Figure 6.22:Ina(3,1)repetitioncode, onlytwooftheposs...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_395 to parent chunk: decrease). However, using a well-designed error-correcting code corrects bit rec...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_396 to parent chunk: 228 CHAPTER 6. INFORMATION COMMUNICATION
+where the generator matrix is
+G=
+
+...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_397 to parent chunk: dmin, we need only count the number of bits in each column and sums of columns. ...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_398 to parent chunk: 229
+matrix. For our (7,4) code,
+H =
+
+
+1 1 1 0
+0 1 1 1
+1 1 0 1
+  
+Lo...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_399 to parent chunk: 3. if non-zero, consult a table of length-(N −K) binary vectors to associate the...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_400 to parent chunk: 230 CHAPTER 6. INFORMATION COMMUNICATION
+N K E
+3 1 0.33
+7 4 0.57
+15 11 0.73
+31 2...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_401 to parent chunk: that if the signal-to-noise ratio is large enough channel coding yields a smalle...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_402 to parent chunk: 231
+-5 0 5 10
+10-8
+10-6
+10-4
+10-2
+100
+Signal-to-Noise Ratio (dB)
+Probability of ...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_403 to parent chunk: error-correcting code exists that has the property that as the length of the cod...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_404 to parent chunk: 232 CHAPTER 6. INFORMATION COMMUNICATION
+Signal-to-Noise Ratio (dB)
+Capacity (bi...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_405 to parent chunk: 6.31 Capacity of a Channel
+39
+In addition to the Noisy Channel Coding Theorem an...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_406 to parent chunk: 233
+what this code might be; it has never been found. Codes such as the Hamming ...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_407 to parent chunk: 2 .
+6.32 Comparison of Analog and Digital Communication
+41
+Analog communication ...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_408 to parent chunk: data, for example). Any signal that can be transmitted by analog means can be se...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_409 to parent chunk: 234 CHAPTER 6. INFORMATION COMMUNICATION
+communication’s ability to transmit a w...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_410 to parent chunk: Figure 6.25: The prototypical communications network—whether it be the postal se...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_411 to parent chunk: 235
+eﬃciency. Furthermore, today’s networks use heterogeneous links. Communicati...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_412 to parent chunk: formed as the network handles the message, with nodes relaying the message havin...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_413 to parent chunk: was then called the ARPANET, now called the Internet, was born. Computer network...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_414 to parent chunk: 236 CHAPTER 6. INFORMATION COMMUNICATION
+Receiver Address 
+Transmitter Address 
+...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_415 to parent chunk: a single communication link and special routing. Perhaps the best known LAN is E...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_416 to parent chunk: 237
+Gateway 
+Wide-Area Network 
+Gateway 
+A B
+B
+C
+D
+LAN 
+LAN 
+LAN 
+Figure 6.27:Th...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_417 to parent chunk: which computer might actually be the intended recipient. In communications termi...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_418 to parent chunk: 238 CHAPTER 6. INFORMATION COMMUNICATION
+Rout xA(t) 
+rA(t) 
+Z0
+Transceiver Coax ...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_419 to parent chunk: sions, the Ethernet random access protocol allows computers to communicate witho...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_420 to parent chunk: 239
+propagation time: Pmin
+C > 2L
+c or
+Pmin > 2LC
+c (6.63)
+Thus, for the 10 Mbps...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_421 to parent chunk: organization runs through all modern networks today.
+What has been deﬁned as a n...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_422 to parent chunk: higher layers.
+Recently, an important set of protocols created the World Wide We...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_423 to parent chunk: 240 CHAPTER 6. INFORMATION COMMUNICATION
+detail
+Application
+Presentation
+Session...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_424 to parent chunk: 241
+C 2R 1
+R 2
+C 1
++
+–
+–
++
+Z0
+Vin 
+Figure 6.31
+Problem 6.2:Noise in AM Systems
+T...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_425 to parent chunk: 242 CHAPTER 6. INFORMATION COMMUNICATION
+(b) Sketch a block diagram for a commun...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_426 to parent chunk: (
+1+m(t)
+)
+sin (2πfct)
+the jammer would transmitAJn(t) sin (2πfct+ φ). The noise...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_427 to parent chunk: 243
+c(t) 
+t
+0
+1
+1/4f c
+1/2f c 3/4f c
+1/fc
+–1 
+Figure 6.33
+Problem 6.7:Secret Com...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_428 to parent chunk: 244 CHAPTER 6. INFORMATION COMMUNICATION
+Problem 6.9:A Novel Communication Syste...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_429 to parent chunk: Problem 6.11:City Radio Channels
+In addition to additive white noise, metropolit...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_430 to parent chunk: 245
+Direct Path
+Reflected
+Path
+Transmitter
+Figure 6.36
+(a) Assume that the lengt...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_431 to parent chunk: (c) Willtheproposalwork? Doesthefactthatthetwodatastreamsaretransmittedinthesame...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_432 to parent chunk: 246 CHAPTER 6. INFORMATION COMMUNICATION
+Problem 6.13:Mixed Analog and Digital T...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_433 to parent chunk: (b) What is the transmission bandwidth?
+(c) What receiver would you design that ...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_434 to parent chunk: 247
+(d) In the digital case, the recovered speech signal can be considered to ha...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_435 to parent chunk: 248 CHAPTER 6. INFORMATION COMMUNICATION
+y_quant = round(3.5*y + 3.5);
+Find the ...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_436 to parent chunk: 249
+Letter Probability
+a 1/3
+b 1/3
+c 1/4
+d 1/12
+Table 6.8
+(a) What is the averag...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_437 to parent chunk: 250 CHAPTER 6. INFORMATION COMMUNICATION
+(a) What is this code’s eﬃciency?
+(b) F...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_438 to parent chunk: 251
+a (7,4) Hamming code having the generator matrix
+G=
+
+
+1 0 0 0...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_439 to parent chunk: most occur because of dust and scratches on the disk surface. Because scratches ...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_440 to parent chunk: 252 CHAPTER 6. INFORMATION COMMUNICATION
+1111
+1010
+sample n
+sample n+1
+4-way
+int...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_441 to parent chunk: of all, the quality of the received signal, as measured by the signal-to-noise r...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_442 to parent chunk: 253
+• Before transmitting, ﬂip a coin that has probabilityp of coming up heads
+•...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_443 to parent chunk: transmitter repeater receiver 
+Figure 6.42
+(a) What is the block diagram for thi...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_444 to parent chunk: 254 CHAPTER 6. INFORMATION COMMUNICATION
+Problem 6.34:Digital vs. Analog
+You are...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_445 to parent chunk: 255
+Solutions to Exercises in Chapter 6
+Solution to Exercise 6.1 (p. 200)
+In bot...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_446 to parent chunk: the ionosphere. Assuming a distance between the two of 80 km, the relationλf = c...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_447 to parent chunk: 256 CHAPTER 6. INFORMATION COMMUNICATION
+Solution to Exercise 6.8 (p. 205)
+The a...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_448 to parent chunk: multiplier-integrator combination is the negative of the other. Choosing the lar...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_449 to parent chunk: 257
+Solution to Exercise 6.21 (p. 218)
+Equally likely symbols each have a probab...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_450 to parent chunk: initial part incorrectly, then would synchronize. If we had a ﬁxed-length code (...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_451 to parent chunk: 258 CHAPTER 6. INFORMATION COMMUNICATION
+100 10110-4
+10-3
+10-2
+10-1
+100
+Coded
+Un...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_452 to parent chunk: 259
+ForN = 7, pe <0.31.
+Solution to Exercise 6.33 (p. 230)
+In a length-N block, ...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_453 to parent chunk: diﬀerent packet formats, making connecting old and new systems together more com...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_454 to parent chunk: 260 CHAPTER 6. INFORMATION COMMUNICATION...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_455 to parent chunk: Chapter 7
+Appendix
+7.1 Decibels
+1
+The decibel scale expresses amplitudes and pow...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_456 to parent chunk: that corresponds to a ratio of10 ×10 ×4 = 400. Decibel quantities add; ratio val...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_457 to parent chunk: 262 CHAPTER 7. APPENDIX
+Power Ratio dB
+0.1 −10
+1 0
+√
+2 1.5
+2 3
+√
+10 5
+4 6
+5 7
+8 ...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_458 to parent chunk: is n(n−1) (n−2) ···(n−k+ 1). This result can be written in terms of factorials a...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_459 to parent chunk: 263
+Exercise 7.3 (Solution on p. 265.)
+What does the sum of binomial coeﬃcients ...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_460 to parent chunk: 264 CHAPTER 7. APPENDIX
+U.S. DEPARTM
+ENT O
+F COMMERCE
+NATIONAL TELECOMMUNICATIO
+...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_461 to parent chunk: MARITIME MOBILE
+MARITIME
+MOBILE
+(SHIPS ONLY)
+MOBILE
+AERONAUTICAL
+RADIONAVIGATION...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_462 to parent chunk: AERONAUTICAL MOBILE (R)
+MARITIME MOBILE
+FIXED
+FIXED
+FIXED
+ Mobile*
+ MOBILE**
+FIX...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_463 to parent chunk: RADIONAVIGATION
+MOBILE SA TELLITE (E-S)
+FIXED
+MOBILE**FIXED
+FIXED
+Mobile
+Radiolo...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_464 to parent chunk: AidsRADIONAVIGATION
+RADIOLOCATION Radiolocation
+RADIO-
+LOCA TION
+RADIO-
+LOCA TIO...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_465 to parent chunk: Satellite (S-S)
+FIXED
+MOBILE
+FIXED
+SATELLITE
+(S-E)
+FIXED SATELLITE (E-S) MOBILE ...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_466 to parent chunk: Amateur
+Satellite
+Amateur
+RADIO-
+LOCATION
+MOBILEFIXED MOBILE
+SATELLITE
+(S-E)
+FIX...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_467 to parent chunk: EARTH EXPLORA TION
+SATELLITE (Passive)SPACE RES. (Passive)
+MOBILE
+MOBILE
+SATELLI...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_468 to parent chunk: AERONAUTICAL MOBILE SATELLITE (R)
+(space to Earth) Mobile Satellite  (S- E)
+RADI...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_469 to parent chunk: 75.2
+75.4
+76.0
+88.0
+108.0
+117.975
+121.9375
+123.0875
+123.5875
+128.8125
+132.0125
+1...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_470 to parent chunk: 6.875
+7.075
+7.125
+7.19
+7.235
+7.25
+7.30
+7.45
+7.55
+7.75
+7.90
+8.025
+8.175
+8.215
+8.4...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_471 to parent chunk: FIXED Mobile*
+ST AND. FREQ. & TIME SIG.
+MARITIME
+MOBILE
+Aeronautical
+Mobile
+Radi...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_472 to parent chunk: ❱❱ ❱❱ Infra-sonics❱❱ Sonics❱ ❱ ❱ Ultra-sonicsMicrowaves❱ ❱Infrared❱
+❱
+❱ ❱ PL S X...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_473 to parent chunk: 265
+Solutions to Exercises in Chapter 7
+Solution to Exercise 7.1 (p. 261)
+Alexan...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_474 to parent chunk: 266 INDEX
+Index of Keywords and Terms
+Keywords are listed by the section with th...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_475 to parent chunk: broadcast, § 6.1(195), 196, § 6.36(236)
+broadcast communication, 195
+broadcast m...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_476 to parent chunk: INDEX 267
+codeword, § 6.27(226), 226
+codeword error, § 7.2(262)
+coding, § 6.23(2...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_477 to parent chunk: § 5.14(172)
+diﬀerence equation, § 5.12(168), 168,
+§ 5.14(172)
+digital, 1, § 5.6(...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_478 to parent chunk: 268 INDEX
+double-bit, § 6.29(230)
+DSP, § 5.1(143), § 5.6(154), § 5.10(164),
+§ 5....
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_479 to parent chunk: § 5.13(171), § 5.15(176)
+frequency response, 54, § 5.13(171)
+frequency shift key...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_480 to parent chunk: INDEX 269
+holes, 31
+Huﬀman, § 6.22(220), § 6.23(222)
+Huﬀman Code, § 6.22(220), §...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_481 to parent chunk: long-distance transmission, § 6.7(203)
+lossless, 220
+lossy, 220
+lottery, § 7.2(2...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_482 to parent chunk: 270 INDEX
+noise, 122, § 6.1(195), § 6.8(204), 204,
+§ 6.12(208), § 6.17(215), § 6...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_483 to parent chunk: Q quadruple precision ﬂoating point, § 5.2(143)
+quantization interval, § 5.4(150...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_484 to parent chunk: INDEX 271
+sequences, § 2.4(18)
+series, § 3.6(38), 38
+Shannon, § 1.3(4), § 6.1(19...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_485 to parent chunk: time reversal, § 2.6(22)
+time-domain multiplexing, § 6.33(234), 235
+time-invaria...
+2025-06-19 16:44:18,329 - [PARENT] Assigned doc_id=doc_486 to parent chunk: Fundamentals of Electrical Engineering I
+The course focuses on the creation, man...
+2025-06-19 16:44:18,775 - [MAPPING] Mapped doc_id to 3186 child chunks
+2025-06-19 16:44:18,784 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-06-19 16:44:19,284 - HTTP Request: POST https://api.umgpt.umich.edu/azure-openai-api/openai/deployments/text-embedding-3-small/embeddings?api-version=2024-06-01 "HTTP/1.1 200 OK"
+2025-06-19 16:44:19,294 - [VECTORSTORE] Test query returned 0 results
+2025-06-19 16:44:19,295 - [VECTORSTORE] Rebuilding due to: Vectorstore appears empty
+2025-06-19 16:49:47,412 - HTTP Request: POST https://api.umgpt.umich.edu/azure-openai-api/openai/deployments/text-embedding-3-small/embeddings?api-version=2024-06-01 "HTTP/1.1 503 Service Unavailable"
+2025-06-19 16:49:47,414 - Retrying request to /embeddings in 0.486873 seconds
